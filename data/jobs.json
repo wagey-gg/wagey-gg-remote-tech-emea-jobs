@@ -3120,9 +3120,9 @@
     "title": "Remote Management Jobs",
     "company": "Canonical",
     "region": "EMEA",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
+    "salary": "$97k–$143k/year",
+    "salaryMin": 97200,
+    "salaryMax": 142560,
     "skills": [
       "Market Research",
       "Linux",
@@ -3132,7 +3132,7 @@
     ],
     "seniority": null,
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:36:39.433Z",
+    "verifiedAt": "2026-09-06T06:16:31.163Z",
     "scrapedAt": "2026-01-23T10:34:17.180Z",
     "url": "https://wagey.gg/jobs/505ba2e8fd61-remote-management-jobs-at-canonical?ref=github",
     "visibility": "full"
@@ -3802,7 +3802,7 @@
     ],
     "seniority": "mid",
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:35:35.775Z",
+    "verifiedAt": "2026-09-06T06:13:10.428Z",
     "scrapedAt": "2026-01-25T08:00:45.920Z",
     "url": "https://wagey.gg/jobs/7a6899cff4e2-automation-qa-engineer-at-vidrush-ai-studios-llp?ref=github",
     "visibility": "full"
@@ -4358,7 +4358,7 @@
     "skills": [],
     "seniority": "staff",
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:36:17.664Z",
+    "verifiedAt": "2026-09-06T06:15:41.810Z",
     "scrapedAt": "2026-01-28T13:54:33.536Z",
     "url": "https://wagey.gg/jobs/2fc67cd3731e-strategic-account-executive-emea-at-rogo?ref=github",
     "visibility": "full"
@@ -4379,7 +4379,7 @@
     ],
     "seniority": null,
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:36:18.677Z",
+    "verifiedAt": "2026-09-06T06:15:48.194Z",
     "scrapedAt": "2026-01-28T17:43:29.586Z",
     "url": "https://wagey.gg/jobs/53b9bef0f2f5-software-engineer-at-field-technologies-fzco?ref=github",
     "visibility": "full"
@@ -5458,13 +5458,14 @@
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
+      "DACH",
       "Product Marketing",
       "Prospecting",
       "Customer Success"
     ],
     "seniority": "mid",
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:35:39.978Z",
+    "verifiedAt": "2026-09-06T06:13:36.255Z",
     "scrapedAt": "2026-02-08T14:12:48.363Z",
     "url": "https://wagey.gg/jobs/a8d479a339ac-account-executive-german-at-breezeway?ref=github",
     "visibility": "full"
@@ -5506,7 +5507,7 @@
     ],
     "seniority": "senior",
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:35:58.312Z",
+    "verifiedAt": "2026-09-06T06:14:29.530Z",
     "scrapedAt": "2026-02-08T14:15:50.043Z",
     "url": "https://wagey.gg/jobs/34f323844ab2-senior-solutions-engineer-sweden-remote-at-grafana-labs?ref=github",
     "visibility": "full"
@@ -5526,7 +5527,7 @@
     ],
     "seniority": "director",
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:35:49.527Z",
+    "verifiedAt": "2026-09-06T06:14:11.341Z",
     "scrapedAt": "2026-02-08T14:15:55.346Z",
     "url": "https://wagey.gg/jobs/b9282b07cd53-director-of-software-architecture-at-graphcore?ref=github",
     "visibility": "full"
@@ -5546,7 +5547,7 @@
     ],
     "seniority": "principal",
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:36:16.681Z",
+    "verifiedAt": "2026-09-06T06:15:34.625Z",
     "scrapedAt": "2026-02-08T14:15:56.493Z",
     "url": "https://wagey.gg/jobs/a4cadfab50e2-principal-software-architect-at-graphcore?ref=github",
     "visibility": "full"
@@ -5568,7 +5569,7 @@
     ],
     "seniority": "mid",
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:36:18.950Z",
+    "verifiedAt": "2026-09-06T06:15:45.437Z",
     "scrapedAt": "2026-02-08T14:16:39.853Z",
     "url": "https://wagey.gg/jobs/c094ecb509be-jetbrains-c-c-developer-advocate-at-jetbrains?ref=github",
     "visibility": "full"
@@ -6331,7 +6332,7 @@
     ],
     "seniority": "staff",
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:35:37.311Z",
+    "verifiedAt": "2026-09-06T06:13:22.720Z",
     "scrapedAt": "2026-02-09T02:33:02.890Z",
     "url": "https://wagey.gg/jobs/33abb742100d-tech-lead-node-react-at-oak-s-lab?ref=github",
     "visibility": "full"
@@ -14229,7 +14230,7 @@
     ],
     "seniority": "director",
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:35:38.739Z",
+    "verifiedAt": "2026-09-06T06:13:23.433Z",
     "scrapedAt": "2026-02-20T23:26:05.550Z",
     "url": "https://wagey.gg/jobs/1bf7e81a91a2b279-head-of-engineering-at-fundingcircle?ref=github",
     "visibility": "full"
@@ -14251,7 +14252,7 @@
     ],
     "seniority": "staff",
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:35:45.168Z",
+    "verifiedAt": "2026-09-06T06:13:56.138Z",
     "scrapedAt": "2026-02-20T23:26:06.846Z",
     "url": "https://wagey.gg/jobs/1246e17e4d332038-staff-software-engineer-short-term-credit-at-fundingcircle?ref=github",
     "visibility": "full"
@@ -17376,7 +17377,7 @@
     ],
     "seniority": "senior",
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:36:16.851Z",
+    "verifiedAt": "2026-09-06T06:15:35.945Z",
     "scrapedAt": "2026-02-25T18:09:05.556Z",
     "url": "https://wagey.gg/jobs/d9195c4b3b975017-senior-erp-solutions-consultant-at-zip?ref=github",
     "visibility": "full"
@@ -17414,7 +17415,7 @@
     "skills": [],
     "seniority": "staff",
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:36:17.780Z",
+    "verifiedAt": "2026-09-06T06:15:37.011Z",
     "scrapedAt": "2026-02-25T18:09:14.666Z",
     "url": "https://wagey.gg/jobs/23c883d40ecc1bbd-design-lead-ux-ui-at-happl?ref=github",
     "visibility": "full"
@@ -17474,7 +17475,7 @@
     ],
     "seniority": "mid",
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:35:41.641Z",
+    "verifiedAt": "2026-09-06T06:13:43.453Z",
     "scrapedAt": "2026-02-26T00:31:01.580Z",
     "url": "https://wagey.gg/jobs/49fef7ec0333d80b-senior-data-analyst-at-dwelly?ref=github",
     "visibility": "full"
@@ -17496,7 +17497,7 @@
     ],
     "seniority": "junior",
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:35:41.106Z",
+    "verifiedAt": "2026-09-06T06:13:43.495Z",
     "scrapedAt": "2026-02-26T00:31:02.396Z",
     "url": "https://wagey.gg/jobs/f45cf51a256f3810-integration-associate-post-m-a-at-dwelly?ref=github",
     "visibility": "full"
@@ -24644,7 +24645,7 @@
     "skills": [],
     "seniority": null,
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:36:12.623Z",
+    "verifiedAt": "2026-09-06T06:15:16.111Z",
     "scrapedAt": "2026-03-06T11:12:46.480Z",
     "url": "https://wagey.gg/jobs/89a9a9bbef3daa8f-software-engineer-at-meticulous?ref=github",
     "visibility": "full"
@@ -24666,7 +24667,7 @@
     ],
     "seniority": "senior",
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:36:12.932Z",
+    "verifiedAt": "2026-09-06T06:15:16.097Z",
     "scrapedAt": "2026-03-06T11:13:14.610Z",
     "url": "https://wagey.gg/jobs/c54f42a0d307c0a6-senior-software-engineer-node-vue-typescript-remote-europe-at-reedsy?ref=github",
     "visibility": "full"
@@ -26444,7 +26445,7 @@
     ],
     "seniority": null,
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:35:46.740Z",
+    "verifiedAt": "2026-09-06T06:14:04.329Z",
     "scrapedAt": "2026-03-08T13:10:10.016Z",
     "url": "https://wagey.gg/jobs/6725be71f284c864-iam-consultant-identity-access-management-ai-trainer-freelance-8-20hrs-week-remo?ref=github",
     "visibility": "full"
@@ -27816,7 +27817,7 @@
     ],
     "seniority": "senior",
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:35:41.316Z",
+    "verifiedAt": "2026-09-06T06:13:40.167Z",
     "scrapedAt": "2026-03-11T05:34:11.909Z",
     "url": "https://wagey.gg/jobs/279cf561b43ac0f3-senior-software-engineer-authentication-advice-at-entersekt?ref=github",
     "visibility": "full"
@@ -27838,7 +27839,7 @@
     ],
     "seniority": "staff",
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:35:47.023Z",
+    "verifiedAt": "2026-09-06T06:14:03.059Z",
     "scrapedAt": "2026-03-11T05:34:11.909Z",
     "url": "https://wagey.gg/jobs/02d7fd15af35c104-engineering-manager-data-operations-at-sony-music-global?ref=github",
     "visibility": "full"
@@ -28448,7 +28449,7 @@
     ],
     "seniority": "mid",
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:35:36.264Z",
+    "verifiedAt": "2026-09-06T06:13:14.145Z",
     "scrapedAt": "2026-03-11T05:34:11.909Z",
     "url": "https://wagey.gg/jobs/ddef3f40fbd1ad83-software-engineer-europe-uk-at-obsidiansystems?ref=github",
     "visibility": "full"
@@ -29219,7 +29220,7 @@
     ],
     "seniority": null,
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:35:39.911Z",
+    "verifiedAt": "2026-09-06T06:13:33.758Z",
     "scrapedAt": "2026-03-11T11:29:37.734Z",
     "url": "https://wagey.gg/jobs/81ff07a44b582af3-portfolio-data-operations-analyst-at-addepar?ref=github",
     "visibility": "full"
@@ -29800,7 +29801,7 @@
     ],
     "seniority": "senior",
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:35:33.278Z",
+    "verifiedAt": "2026-09-06T06:13:06.870Z",
     "scrapedAt": "2026-03-12T00:07:26.368Z",
     "url": "https://wagey.gg/jobs/bf98818a8ec6c74f-senior-blockchain-infra-engineer-devops-go-at-hyphen-connect-limited?ref=github",
     "visibility": "full"
@@ -29866,7 +29867,7 @@
     ],
     "seniority": "senior",
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:35:41.024Z",
+    "verifiedAt": "2026-09-06T06:13:39.046Z",
     "scrapedAt": "2026-03-12T00:31:56.029Z",
     "url": "https://wagey.gg/jobs/eb082a75c8de222a-enterprise-account-executive-at-forter?ref=github",
     "visibility": "full"
@@ -30562,7 +30563,7 @@
     ],
     "seniority": "mid",
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:35:57.609Z",
+    "verifiedAt": "2026-09-06T06:14:16.028Z",
     "scrapedAt": "2026-03-13T16:21:59.411Z",
     "url": "https://wagey.gg/jobs/526d8b7b40f72390-overseas-operations-manager-p2p-at-okx?ref=github",
     "visibility": "full"
@@ -31717,15 +31718,15 @@
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
-      "Coaching",
-      "Documentation",
       "C++",
       "Python",
+      "Coaching",
+      "Documentation",
       "Mentoring"
     ],
     "seniority": null,
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:36:11.713Z",
+    "verifiedAt": "2026-09-06T06:15:09.920Z",
     "scrapedAt": "2026-03-17T20:35:00.179Z",
     "url": "https://wagey.gg/jobs/4e32f319fc991e4b-software-engineer-triton-at-graphcore?ref=github",
     "visibility": "full"
@@ -31743,7 +31744,7 @@
     ],
     "seniority": "senior",
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:36:05.964Z",
+    "verifiedAt": "2026-09-06T06:14:55.055Z",
     "scrapedAt": "2026-03-17T20:35:01.067Z",
     "url": "https://wagey.gg/jobs/08634c26fdc796ea-senior-quantitative-researcher-at-dv-trading?ref=github",
     "visibility": "full"
@@ -32415,7 +32416,7 @@
     ],
     "seniority": "junior",
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:36:00.379Z",
+    "verifiedAt": "2026-09-06T06:14:41.739Z",
     "scrapedAt": "2026-03-19T20:41:57.106Z",
     "url": "https://wagey.gg/jobs/2b523e3e1b7fd477-business-development-associate-london-at-ideals?ref=github",
     "visibility": "full"
@@ -33259,7 +33260,7 @@
     ],
     "seniority": null,
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:36:59.195Z",
+    "verifiedAt": "2026-09-06T06:16:51.453Z",
     "scrapedAt": "2026-03-23T09:20:32.075Z",
     "url": "https://wagey.gg/jobs/2de5ea9f9269070d-data-protection-lawyer-at-axiom?ref=github",
     "visibility": "full"
@@ -33361,7 +33362,7 @@
     ],
     "seniority": "director",
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:35:39.144Z",
+    "verifiedAt": "2026-09-06T06:13:30.543Z",
     "scrapedAt": "2026-03-23T12:06:47.708Z",
     "url": "https://wagey.gg/jobs/8a1ad610578f7733-senior-product-director-business-banking-at-monzo?ref=github",
     "visibility": "full"
@@ -34379,7 +34380,7 @@
     "skills": [],
     "seniority": null,
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:36:03.515Z",
+    "verifiedAt": "2026-09-06T06:14:58.269Z",
     "scrapedAt": "2026-03-25T14:10:49.956Z",
     "url": "https://wagey.gg/jobs/85fa36beabc9718d-dubbing-specialist-freelance-at-elevenlabs?ref=github",
     "visibility": "full"
@@ -40126,7 +40127,7 @@
     ],
     "seniority": null,
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:36:01.202Z",
+    "verifiedAt": "2026-09-06T06:14:46.667Z",
     "scrapedAt": "2026-04-11T05:45:45.710Z",
     "url": "https://wagey.gg/jobs/5f795cc6f1af8ca0-telco-cloud-field-engineer-at-canonical?ref=github",
     "visibility": "full"
@@ -45612,7 +45613,7 @@
     ],
     "seniority": "principal",
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:36:17.155Z",
+    "verifiedAt": "2026-09-06T06:15:33.821Z",
     "scrapedAt": "2026-04-18T05:14:57.224Z",
     "url": "https://wagey.gg/jobs/461c3bd3f6dec6c1-principal-engineer-at-zodl?ref=github",
     "visibility": "full"
@@ -46723,7 +46724,7 @@
     ],
     "seniority": "senior",
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:36:19.619Z",
+    "verifiedAt": "2026-09-06T06:15:55.924Z",
     "scrapedAt": "2026-04-22T18:56:13.528Z",
     "url": "https://wagey.gg/jobs/454e43acd33cb2c6-senior-proposal-marketing-associate-remote-power-energy-at-atwell-llc?ref=github",
     "visibility": "full"
@@ -58617,7 +58618,7 @@
     ],
     "seniority": "senior",
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:35:28.275Z",
+    "verifiedAt": "2026-09-06T06:12:59.785Z",
     "scrapedAt": "2026-05-10T09:25:26.222Z",
     "url": "https://wagey.gg/jobs/70121a56fbae1ac5-founding-engineer-construction-operations-software-engineer-at-marble?ref=github",
     "visibility": "full"
@@ -58656,7 +58657,7 @@
     ],
     "seniority": "principal",
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:35:28.558Z",
+    "verifiedAt": "2026-09-06T06:13:02.364Z",
     "scrapedAt": "2026-05-10T09:25:27.524Z",
     "url": "https://wagey.gg/jobs/b18ecdc1194c3772-senior-product-engineer-tech-lead-at-ankar?ref=github",
     "visibility": "full"
@@ -58678,7 +58679,7 @@
     ],
     "seniority": null,
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:35:33.089Z",
+    "verifiedAt": "2026-09-06T06:13:06.871Z",
     "scrapedAt": "2026-05-10T09:25:28.759Z",
     "url": "https://wagey.gg/jobs/d3a1f63104138d7a-data-analyst-at-gohenry?ref=github",
     "visibility": "full"
@@ -58697,7 +58698,7 @@
     ],
     "seniority": null,
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:35:35.775Z",
+    "verifiedAt": "2026-09-06T06:13:16.214Z",
     "scrapedAt": "2026-05-10T09:25:29.637Z",
     "url": "https://wagey.gg/jobs/fc5ca9168de2d44b-spontaneous-application-tech-product-gtm-at-jupus?ref=github",
     "visibility": "full"
@@ -58726,7 +58727,7 @@
   },
   {
     "id": "c770060c76f2a4bf",
-    "title": "Backend Engineer (Go)",
+    "title": "Senior Backend Engineer (Go)",
     "company": "Prelude",
     "region": "EMEA",
     "salary": "",
@@ -58735,11 +58736,11 @@
     "skills": [
       "Go"
     ],
-    "seniority": null,
+    "seniority": "senior",
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:35:33.435Z",
+    "verifiedAt": "2026-09-06T06:13:13.580Z",
     "scrapedAt": "2026-05-10T09:28:11.661Z",
-    "url": "https://wagey.gg/jobs/c770060c76f2a4bf-backend-engineer-go-at-prelude?ref=github",
+    "url": "https://wagey.gg/jobs/c770060c76f2a4bf-senior-backend-engineer-go-at-prelude?ref=github",
     "visibility": "full"
   },
   {
@@ -58833,7 +58834,7 @@
     ],
     "seniority": "c-level",
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:35:57.353Z",
+    "verifiedAt": "2026-09-06T06:14:15.468Z",
     "scrapedAt": "2026-05-10T09:53:41.954Z",
     "url": "https://wagey.gg/jobs/bd928dee441e02f4-co-founder-cto-construction-robotics-at-marble?ref=github",
     "visibility": "full"
@@ -58853,7 +58854,7 @@
     ],
     "seniority": "junior",
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:36:06.020Z",
+    "verifiedAt": "2026-09-06T06:14:58.194Z",
     "scrapedAt": "2026-05-10T10:09:39.090Z",
     "url": "https://wagey.gg/jobs/76e775c5a29ed100-junior-infrastructure-engineer-at-sifflet?ref=github",
     "visibility": "full"
@@ -58875,7 +58876,7 @@
     ],
     "seniority": "staff",
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:36:12.082Z",
+    "verifiedAt": "2026-09-06T06:15:14.610Z",
     "scrapedAt": "2026-05-10T10:12:43.870Z",
     "url": "https://wagey.gg/jobs/29f891db2bc5aeed-staff-machine-learning-engineer-pricing-revenue-m-f-d-at-happyhotel?ref=github",
     "visibility": "full"
@@ -58937,7 +58938,7 @@
     ],
     "seniority": "senior",
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:36:12.981Z",
+    "verifiedAt": "2026-09-06T06:15:19.223Z",
     "scrapedAt": "2026-05-10T10:16:13.208Z",
     "url": "https://wagey.gg/jobs/666ee4c67cb82be9-senior-backend-engineer-at-farseer?ref=github",
     "visibility": "full"
@@ -58958,7 +58959,7 @@
     ],
     "seniority": "mid",
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:36:13.380Z",
+    "verifiedAt": "2026-09-06T06:15:21.669Z",
     "scrapedAt": "2026-05-10T10:16:42.321Z",
     "url": "https://wagey.gg/jobs/989d9a25221b1498-senior-data-scientist-at-abound?ref=github",
     "visibility": "full"
@@ -59057,7 +59058,7 @@
     ],
     "seniority": "staff",
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:36:19.720Z",
+    "verifiedAt": "2026-09-06T06:15:56.877Z",
     "scrapedAt": "2026-05-10T10:33:03.083Z",
     "url": "https://wagey.gg/jobs/16d0c60b74c64a6f-analytics-lead-at-pearmill?ref=github",
     "visibility": "full"
@@ -59079,7 +59080,7 @@
     ],
     "seniority": "principal",
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:36:22.363Z",
+    "verifiedAt": "2026-09-06T06:16:09.833Z",
     "scrapedAt": "2026-05-10T10:38:50.414Z",
     "url": "https://wagey.gg/jobs/f458842f85bd75fc-principal-software-engineer-at-mend-io?ref=github",
     "visibility": "full"
@@ -59097,7 +59098,7 @@
     ],
     "seniority": null,
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:36:22.890Z",
+    "verifiedAt": "2026-09-06T06:16:07.755Z",
     "scrapedAt": "2026-05-10T10:40:22.110Z",
     "url": "https://wagey.gg/jobs/76a0c232c20da8b7-ai-deployment-engineer-at-openai?ref=github",
     "visibility": "full"
@@ -64807,7 +64808,7 @@
     ],
     "seniority": "mid",
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:35:58.326Z",
+    "verifiedAt": "2026-09-06T06:14:25.644Z",
     "scrapedAt": "2026-05-17T12:24:20.295Z",
     "url": "https://wagey.gg/jobs/584e3ec3b0746224-software-engineer-python-asset-pricing-hedging-at-bitpanda?ref=github",
     "visibility": "full"
@@ -64848,7 +64849,7 @@
     ],
     "seniority": "senior",
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:36:13.184Z",
+    "verifiedAt": "2026-09-06T06:15:20.884Z",
     "scrapedAt": "2026-05-17T12:31:07.015Z",
     "url": "https://wagey.gg/jobs/fc5674f388d10da0-senior-android-engineer-at-gymshark?ref=github",
     "visibility": "full"
@@ -74957,7 +74958,7 @@
     ],
     "seniority": "senior",
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:35:32.970Z",
+    "verifiedAt": "2026-09-06T06:13:06.522Z",
     "scrapedAt": "2026-05-27T15:17:48.328Z",
     "url": "https://wagey.gg/jobs/36f0ef2c0768218f-senior-backend-software-engineer-care-engagement-platform-at-wellhub?ref=github",
     "visibility": "full"
@@ -74975,7 +74976,7 @@
     ],
     "seniority": "senior",
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:35:29.650Z",
+    "verifiedAt": "2026-09-06T06:13:00.561Z",
     "scrapedAt": "2026-05-27T15:17:48.419Z",
     "url": "https://wagey.gg/jobs/cbcf35b17b55321f-gtm-strategy-operations-manager-eu-uk-at-mq-referrals-only?ref=github",
     "visibility": "full"
@@ -74993,7 +74994,7 @@
     ],
     "seniority": "senior",
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:35:32.972Z",
+    "verifiedAt": "2026-09-06T06:13:06.523Z",
     "scrapedAt": "2026-05-27T15:17:49.406Z",
     "url": "https://wagey.gg/jobs/22a791ff31d053ac-gtm-strategy-operations-manager-eu-uk-at-marqeta?ref=github",
     "visibility": "full"
@@ -78568,7 +78569,7 @@
     ],
     "seniority": "staff",
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:40:45.680Z",
+    "verifiedAt": "2026-09-06T06:20:02.212Z",
     "scrapedAt": "2026-05-30T14:29:51.359Z",
     "url": "https://wagey.gg/jobs/b40ed395745a3f40-senior-communications-lead-dach-cee-at-airbnb?ref=github",
     "visibility": "full"
@@ -92666,11 +92667,12 @@
     "skills": [
       "Ashby",
       "Talent Acquisition",
+      "Performance Management",
       "Sprint Planning"
     ],
     "seniority": "mid",
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:35:29.401Z",
+    "verifiedAt": "2026-09-06T06:13:05.835Z",
     "scrapedAt": "2026-06-17T09:18:40.376Z",
     "url": "https://wagey.gg/jobs/a274e91c404a5553-design-engineer-eu-at-ashby?ref=github",
     "visibility": "full"
@@ -92692,7 +92694,7 @@
     ],
     "seniority": "director",
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:35:30.634Z",
+    "verifiedAt": "2026-09-06T06:13:08.985Z",
     "scrapedAt": "2026-06-17T09:21:02.058Z",
     "url": "https://wagey.gg/jobs/99cf3e7544225e85-senior-director-data-platform-and-ai-at-oyster?ref=github",
     "visibility": "full"
@@ -99105,7 +99107,7 @@
     ],
     "seniority": "senior",
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:40:10.067Z",
+    "verifiedAt": "2026-09-06T06:18:40.768Z",
     "scrapedAt": "2026-06-17T23:01:15.218Z",
     "url": "https://wagey.gg/jobs/49fbe25813a87314-senior-ip-counsel-at-jetbrains?ref=github",
     "visibility": "full"
@@ -99127,7 +99129,7 @@
     ],
     "seniority": "director",
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:40:15.552Z",
+    "verifiedAt": "2026-09-06T06:18:48.068Z",
     "scrapedAt": "2026-06-17T23:01:18.174Z",
     "url": "https://wagey.gg/jobs/a2492e3a10918a3c-creative-director-social-at-dept?ref=github",
     "visibility": "full"
@@ -99148,14 +99150,14 @@
     ],
     "seniority": "mid",
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:40:20.463Z",
+    "verifiedAt": "2026-09-06T06:18:56.747Z",
     "scrapedAt": "2026-06-17T23:01:45.842Z",
     "url": "https://wagey.gg/jobs/327f07670d7d0b52-commercial-strategy-advisor-deal-desk-pricing-at-couchbase-inc?ref=github",
     "visibility": "full"
   },
   {
     "id": "cf9498772de4e7c8",
-    "title": "Software Engineer",
+    "title": "Senior Software Engineer",
     "company": "MinIO",
     "region": "EMEA",
     "salary": "$21k/year",
@@ -99166,11 +99168,11 @@
       "Jira",
       "Close"
     ],
-    "seniority": null,
+    "seniority": "senior",
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:40:19.309Z",
+    "verifiedAt": "2026-09-06T06:18:55.353Z",
     "scrapedAt": "2026-06-17T23:01:47.802Z",
-    "url": "https://wagey.gg/jobs/cf9498772de4e7c8-software-engineer-at-minio?ref=github",
+    "url": "https://wagey.gg/jobs/cf9498772de4e7c8-senior-software-engineer-at-minio?ref=github",
     "visibility": "full"
   },
   {
@@ -99190,14 +99192,14 @@
     ],
     "seniority": "senior",
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:40:25.151Z",
+    "verifiedAt": "2026-09-06T06:19:08.584Z",
     "scrapedAt": "2026-06-17T23:01:49.512Z",
     "url": "https://wagey.gg/jobs/7f60e6196b4ded43-senior-backend-software-engineer-python-at-anaplan?ref=github",
     "visibility": "full"
   },
   {
     "id": "765ba680769bd3b2",
-    "title": "(GPU) Infrastructure Engineer",
+    "title": "Infrastructure/Systems Engineer",
     "company": "Orcrist Technologies",
     "region": "EMEA",
     "salary": "",
@@ -99212,9 +99214,9 @@
     ],
     "seniority": "senior",
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:40:23.185Z",
+    "verifiedAt": "2026-09-06T06:19:11.626Z",
     "scrapedAt": "2026-06-17T23:01:49.763Z",
-    "url": "https://wagey.gg/jobs/765ba680769bd3b2-gpu-infrastructure-engineer-at-orcrist-technologies?ref=github",
+    "url": "https://wagey.gg/jobs/765ba680769bd3b2-infrastructure-systems-engineer-at-orcrist-technologies?ref=github",
     "visibility": "full"
   },
   {
@@ -99231,7 +99233,7 @@
     ],
     "seniority": "senior",
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:40:30.768Z",
+    "verifiedAt": "2026-09-06T06:19:09.229Z",
     "scrapedAt": "2026-06-17T23:01:50.658Z",
     "url": "https://wagey.gg/jobs/6eb65c1ac95ee0e0-senior-product-manager-supply-chain-applications-at-anaplan?ref=github",
     "visibility": "full"
@@ -99250,7 +99252,7 @@
     ],
     "seniority": "staff",
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:40:32.057Z",
+    "verifiedAt": "2026-09-06T06:19:17.664Z",
     "scrapedAt": "2026-06-17T23:02:03.511Z",
     "url": "https://wagey.gg/jobs/8e98268a948eb196-lead-applied-scientist-maternity-cover-ftc-at-prolific?ref=github",
     "visibility": "full"
@@ -99272,7 +99274,7 @@
     ],
     "seniority": "senior",
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:40:31.918Z",
+    "verifiedAt": "2026-09-06T06:19:12.947Z",
     "scrapedAt": "2026-06-17T23:02:04.681Z",
     "url": "https://wagey.gg/jobs/5a9eb2a2e5b38c88-people-leader-europe-at-indicium-ai?ref=github",
     "visibility": "full"
@@ -99294,7 +99296,7 @@
     ],
     "seniority": "senior",
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:40:33.498Z",
+    "verifiedAt": "2026-09-06T06:19:18.390Z",
     "scrapedAt": "2026-06-17T23:02:05.442Z",
     "url": "https://wagey.gg/jobs/a71d21360fcb24f0-it-operations-manager-at-nexgen-cloud?ref=github",
     "visibility": "full"
@@ -99316,14 +99318,14 @@
     ],
     "seniority": "junior",
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:40:33.991Z",
+    "verifiedAt": "2026-09-06T06:19:19.557Z",
     "scrapedAt": "2026-06-17T23:02:09.442Z",
     "url": "https://wagey.gg/jobs/2b88fa47b173e5a0-business-development-representative-emea-at-temporal-technologies?ref=github",
     "visibility": "full"
   },
   {
     "id": "0df2c091d89c61f6",
-    "title": "Global Performance Marketing Manager",
+    "title": "Senior Global Performance Marketing Manager",
     "company": "GoCardless",
     "region": "EMEA",
     "salary": "$85k–$127k/year",
@@ -99336,9 +99338,9 @@
     ],
     "seniority": "mid",
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:40:37.912Z",
+    "verifiedAt": "2026-09-06T06:19:32.294Z",
     "scrapedAt": "2026-06-17T23:02:26.647Z",
-    "url": "https://wagey.gg/jobs/0df2c091d89c61f6-global-performance-marketing-manager-at-gocardless?ref=github",
+    "url": "https://wagey.gg/jobs/0df2c091d89c61f6-senior-global-performance-marketing-manager-at-gocardless?ref=github",
     "visibility": "full"
   },
   {
@@ -99358,7 +99360,7 @@
     ],
     "seniority": null,
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:40:37.943Z",
+    "verifiedAt": "2026-09-06T06:19:35.693Z",
     "scrapedAt": "2026-06-17T23:02:27.456Z",
     "url": "https://wagey.gg/jobs/3bf8fc5e919395f7-site-reliability-engineer-at-gocardless?ref=github",
     "visibility": "full"
@@ -99380,7 +99382,7 @@
     ],
     "seniority": "junior",
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:40:38.367Z",
+    "verifiedAt": "2026-09-06T06:19:33.921Z",
     "scrapedAt": "2026-06-17T23:02:31.883Z",
     "url": "https://wagey.gg/jobs/1cbd23f551ea397c-sales-development-representative-enterprise-platforms-at-doit?ref=github",
     "visibility": "full"
@@ -99402,7 +99404,7 @@
     ],
     "seniority": "senior",
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:40:38.341Z",
+    "verifiedAt": "2026-09-06T06:19:39.397Z",
     "scrapedAt": "2026-06-17T23:02:35.505Z",
     "url": "https://wagey.gg/jobs/c877d3b2221d80b6-senior-product-security-engineer-at-chainguard?ref=github",
     "visibility": "full"
@@ -99421,7 +99423,7 @@
     ],
     "seniority": null,
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:40:39.019Z",
+    "verifiedAt": "2026-09-06T06:19:36.715Z",
     "scrapedAt": "2026-06-17T23:02:41.767Z",
     "url": "https://wagey.gg/jobs/a880f5813c643e07-commercial-account-executive-uk-at-clickhouse?ref=github",
     "visibility": "full"
@@ -99442,7 +99444,7 @@
     ],
     "seniority": "junior",
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:40:39.721Z",
+    "verifiedAt": "2026-09-06T06:19:44.571Z",
     "scrapedAt": "2026-06-17T23:02:43.427Z",
     "url": "https://wagey.gg/jobs/3e31459c986ba3ae-associate-account-executive-financial-services-at-alphasense?ref=github",
     "visibility": "full"
@@ -99464,7 +99466,7 @@
     ],
     "seniority": "principal",
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:40:43.654Z",
+    "verifiedAt": "2026-09-06T06:19:48.249Z",
     "scrapedAt": "2026-06-17T23:02:45.578Z",
     "url": "https://wagey.gg/jobs/516340b94c2cc6f8-data-scientist-at-wpp?ref=github",
     "visibility": "full"
@@ -99484,7 +99486,7 @@
     ],
     "seniority": "director",
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:40:43.721Z",
+    "verifiedAt": "2026-09-06T06:19:47.698Z",
     "scrapedAt": "2026-06-17T23:02:47.260Z",
     "url": "https://wagey.gg/jobs/6708ceaaa08b807b-director-emea-data-partnerships-at-wpp?ref=github",
     "visibility": "full"
@@ -99506,7 +99508,7 @@
     ],
     "seniority": "staff",
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:40:44.045Z",
+    "verifiedAt": "2026-09-06T06:19:43.888Z",
     "scrapedAt": "2026-06-17T23:02:49.872Z",
     "url": "https://wagey.gg/jobs/162494e3eeee2b00-net-engineering-lead-at-wpp?ref=github",
     "visibility": "full"
@@ -99528,7 +99530,7 @@
     ],
     "seniority": "staff",
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:40:44.740Z",
+    "verifiedAt": "2026-09-06T06:19:51.652Z",
     "scrapedAt": "2026-06-17T23:02:50.376Z",
     "url": "https://wagey.gg/jobs/e2bca49dd4755d46-sector-lead-tmt-directed-content-at-alphasense?ref=github",
     "visibility": "full"
@@ -99549,7 +99551,7 @@
     ],
     "seniority": "director",
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:40:44.427Z",
+    "verifiedAt": "2026-09-06T06:19:50.990Z",
     "scrapedAt": "2026-06-17T23:02:52.020Z",
     "url": "https://wagey.gg/jobs/481f842e349bf2dd-senior-director-emea-data-partnerships-lead-data-tech-solutions-at-wpp?ref=github",
     "visibility": "full"
@@ -99569,7 +99571,7 @@
     ],
     "seniority": "vp",
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:40:44.362Z",
+    "verifiedAt": "2026-09-06T06:19:44.482Z",
     "scrapedAt": "2026-06-17T23:02:52.952Z",
     "url": "https://wagey.gg/jobs/40449530e050fab8-svp-product-media-solutions-data-intelligence-at-wpp?ref=github",
     "visibility": "full"
@@ -99591,7 +99593,7 @@
     ],
     "seniority": null,
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:40:46.296Z",
+    "verifiedAt": "2026-09-06T06:19:58.429Z",
     "scrapedAt": "2026-06-17T23:02:55.634Z",
     "url": "https://wagey.gg/jobs/9c15765fb039aec3-strategic-account-executive-global-corporate-at-alphasense?ref=github",
     "visibility": "full"
@@ -99611,7 +99613,7 @@
     ],
     "seniority": "senior",
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:40:47.901Z",
+    "verifiedAt": "2026-09-06T06:19:59.529Z",
     "scrapedAt": "2026-06-17T23:03:09.312Z",
     "url": "https://wagey.gg/jobs/f03efbd130d43739-senior-consultant-manager-customer-contact-and-ai-experts-at-baringa?ref=github",
     "visibility": "full"
@@ -99633,7 +99635,7 @@
     ],
     "seniority": "principal",
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:40:50.893Z",
+    "verifiedAt": "2026-09-06T06:20:10.617Z",
     "scrapedAt": "2026-06-17T23:03:10.837Z",
     "url": "https://wagey.gg/jobs/9887ac9dd743e12b-ai-senior-solutions-architect-global-advanced-services-uk-us-at-everpure?ref=github",
     "visibility": "full"
@@ -99655,7 +99657,7 @@
     ],
     "seniority": "mid",
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:40:51.918Z",
+    "verifiedAt": "2026-09-06T06:20:07.145Z",
     "scrapedAt": "2026-06-17T23:03:17.771Z",
     "url": "https://wagey.gg/jobs/82b8c353bc89881f-technical-support-engineer-emea-at-launchdarkly?ref=github",
     "visibility": "full"
@@ -99677,7 +99679,7 @@
     ],
     "seniority": "vp",
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:40:52.239Z",
+    "verifiedAt": "2026-09-06T06:20:07.682Z",
     "scrapedAt": "2026-06-17T23:03:18.909Z",
     "url": "https://wagey.gg/jobs/0117186bebcb1c6b-vice-president-legal-at-submer?ref=github",
     "visibility": "full"
@@ -99699,7 +99701,7 @@
     ],
     "seniority": "mid",
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:40:53.803Z",
+    "verifiedAt": "2026-09-06T06:20:16.578Z",
     "scrapedAt": "2026-06-17T23:03:22.234Z",
     "url": "https://wagey.gg/jobs/2da5975b011f91c6-digital-marketing-manager-at-adyen?ref=github",
     "visibility": "full"
@@ -99720,7 +99722,7 @@
     ],
     "seniority": "senior",
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:40:58.732Z",
+    "verifiedAt": "2026-09-06T06:20:20.379Z",
     "scrapedAt": "2026-06-17T23:03:22.719Z",
     "url": "https://wagey.gg/jobs/57b285ac4f103754-specialist-account-executive-zt-branch-at-zscaler?ref=github",
     "visibility": "full"
@@ -99742,7 +99744,7 @@
     ],
     "seniority": "senior",
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:40:58.097Z",
+    "verifiedAt": "2026-09-06T06:20:14.702Z",
     "scrapedAt": "2026-06-17T23:03:22.805Z",
     "url": "https://wagey.gg/jobs/fe1000beccc1f5bd-sr-manager-channel-strategy-operations-12-month-fixed-term-contract-at-zscaler?ref=github",
     "visibility": "full"
@@ -99764,7 +99766,7 @@
     ],
     "seniority": "mid",
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:41:03.825Z",
+    "verifiedAt": "2026-09-06T06:20:21.331Z",
     "scrapedAt": "2026-06-17T23:03:30.398Z",
     "url": "https://wagey.gg/jobs/4770939acf3b3d1e-systems-administrator-enterprise-applications-it-at-scopely?ref=github",
     "visibility": "full"
@@ -99786,7 +99788,7 @@
     ],
     "seniority": "junior",
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:41:11.478Z",
+    "verifiedAt": "2026-09-06T06:20:40.315Z",
     "scrapedAt": "2026-06-17T23:03:37.354Z",
     "url": "https://wagey.gg/jobs/89d3fedaae8d1577-junior-qa-engineer-at-avepoint?ref=github",
     "visibility": "full"
@@ -99808,7 +99810,7 @@
     ],
     "seniority": "senior",
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:41:09.673Z",
+    "verifiedAt": "2026-09-06T06:20:27.729Z",
     "scrapedAt": "2026-06-17T23:03:38.136Z",
     "url": "https://wagey.gg/jobs/ec4737a25ae44010-employment-counsel-at-cresta?ref=github",
     "visibility": "full"
@@ -99829,7 +99831,7 @@
     ],
     "seniority": "director",
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:41:10.338Z",
+    "verifiedAt": "2026-09-06T06:20:31.116Z",
     "scrapedAt": "2026-06-17T23:03:40.227Z",
     "url": "https://wagey.gg/jobs/72283d575399a701-director-of-open-source-software-at-riverlane?ref=github",
     "visibility": "full"
@@ -99851,7 +99853,7 @@
     ],
     "seniority": "senior",
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:41:12.338Z",
+    "verifiedAt": "2026-09-06T06:20:48.953Z",
     "scrapedAt": "2026-06-17T23:03:40.572Z",
     "url": "https://wagey.gg/jobs/4ba364d2f02b77b4-senior-compiler-engineer-systems-team-at-riverlane?ref=github",
     "visibility": "full"
@@ -99870,7 +99872,7 @@
     ],
     "seniority": "senior",
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:41:11.579Z",
+    "verifiedAt": "2026-09-06T06:20:33.717Z",
     "scrapedAt": "2026-06-17T23:03:40.917Z",
     "url": "https://wagey.gg/jobs/de13431ea75d1bd8-senior-underwriter-accident-health-uk-at-integrated-specialty-coverages-llc?ref=github",
     "visibility": "full"
@@ -99890,7 +99892,7 @@
     ],
     "seniority": null,
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:41:12.216Z",
+    "verifiedAt": "2026-09-06T06:20:41.675Z",
     "scrapedAt": "2026-06-17T23:03:42.491Z",
     "url": "https://wagey.gg/jobs/33744d7c3f770517-enterprise-systems-engineer-at-veeam-software?ref=github",
     "visibility": "full"
@@ -99909,7 +99911,7 @@
     ],
     "seniority": "staff",
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:41:12.601Z",
+    "verifiedAt": "2026-09-06T06:20:44.399Z",
     "scrapedAt": "2026-06-17T23:03:43.863Z",
     "url": "https://wagey.gg/jobs/19a0938c72db3958-sales-specialist-data-ai-security-at-veeam-software?ref=github",
     "visibility": "full"
@@ -99931,7 +99933,7 @@
     ],
     "seniority": "senior",
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:41:13.193Z",
+    "verifiedAt": "2026-09-06T06:20:45.636Z",
     "scrapedAt": "2026-06-17T23:03:45.038Z",
     "url": "https://wagey.gg/jobs/cee974e29622103c-senior-manager-center-of-expertise-at-veeam-software?ref=github",
     "visibility": "full"
@@ -99953,7 +99955,7 @@
     ],
     "seniority": "staff",
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:41:13.746Z",
+    "verifiedAt": "2026-09-06T06:20:49.807Z",
     "scrapedAt": "2026-06-17T23:03:46.267Z",
     "url": "https://wagey.gg/jobs/24de97838b3bd1b8-lead-data-engineer-at-aker-systems?ref=github",
     "visibility": "full"
@@ -99969,7 +99971,7 @@
     "skills": [],
     "seniority": "mid",
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:41:13.626Z",
+    "verifiedAt": "2026-09-06T06:20:48.866Z",
     "scrapedAt": "2026-06-17T23:03:50.715Z",
     "url": "https://wagey.gg/jobs/28191c9f94ab7e94-technical-support-engineer-at-doordash-usa?ref=github",
     "visibility": "full"
@@ -99991,7 +99993,7 @@
     ],
     "seniority": "mid",
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:41:37.784Z",
+    "verifiedAt": "2026-09-06T06:21:04.793Z",
     "scrapedAt": "2026-06-17T23:03:57.737Z",
     "url": "https://wagey.gg/jobs/6d7af17bdd40b8de-events-manager-at-netdocuments?ref=github",
     "visibility": "full"
@@ -100010,7 +100012,7 @@
     ],
     "seniority": "senior",
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:41:37.823Z",
+    "verifiedAt": "2026-09-06T06:21:11.633Z",
     "scrapedAt": "2026-06-17T23:03:59.956Z",
     "url": "https://wagey.gg/jobs/3b78efdaa5d29809-senior-product-manager-at-diligent-corporation?ref=github",
     "visibility": "full"
@@ -100032,7 +100034,7 @@
     ],
     "seniority": "mid",
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:41:40.197Z",
+    "verifiedAt": "2026-09-06T06:21:14.349Z",
     "scrapedAt": "2026-06-17T23:04:07.570Z",
     "url": "https://wagey.gg/jobs/2336d362c021711c-technical-support-manager-emea-at-sigma-computing?ref=github",
     "visibility": "full"
@@ -100054,7 +100056,7 @@
     ],
     "seniority": "junior",
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:41:39.729Z",
+    "verifiedAt": "2026-09-06T06:21:18.392Z",
     "scrapedAt": "2026-06-17T23:04:07.670Z",
     "url": "https://wagey.gg/jobs/02ee53dd06bcd160-graduate-sales-representative-german-speaker-at-box?ref=github",
     "visibility": "full"
@@ -100076,7 +100078,7 @@
     ],
     "seniority": null,
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:41:44.065Z",
+    "verifiedAt": "2026-09-06T06:21:22.769Z",
     "scrapedAt": "2026-06-17T23:04:11.421Z",
     "url": "https://wagey.gg/jobs/4d5eef40fa5561a1-business-development-event-executive-at-tide?ref=github",
     "visibility": "full"
@@ -100097,7 +100099,7 @@
     ],
     "seniority": "mid",
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:42:03.055Z",
+    "verifiedAt": "2026-09-06T06:21:51.996Z",
     "scrapedAt": "2026-06-17T23:04:30.763Z",
     "url": "https://wagey.gg/jobs/333464122dd778d5-sales-manager-mid-market-uk-at-reddit?ref=github",
     "visibility": "full"
@@ -100117,7 +100119,7 @@
     ],
     "seniority": null,
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:41:54.059Z",
+    "verifiedAt": "2026-09-06T06:21:29.186Z",
     "scrapedAt": "2026-06-17T23:04:36.604Z",
     "url": "https://wagey.gg/jobs/17a1d0e16bc90e06-qa-reviewer-12months-ftc-at-clearscore-technology-limited?ref=github",
     "visibility": "full"
@@ -100139,7 +100141,7 @@
     ],
     "seniority": "senior",
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:41:54.225Z",
+    "verifiedAt": "2026-09-06T06:21:34.095Z",
     "scrapedAt": "2026-06-17T23:04:37.198Z",
     "url": "https://wagey.gg/jobs/d7f2a2a23b10bb90-senior-knowledge-manager-ic4-at-clearscore-technology-limited?ref=github",
     "visibility": "full"
@@ -100161,7 +100163,7 @@
     ],
     "seniority": "director",
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:41:54.668Z",
+    "verifiedAt": "2026-09-06T06:21:39.166Z",
     "scrapedAt": "2026-06-17T23:04:37.667Z",
     "url": "https://wagey.gg/jobs/1b65ebd146fca3f9-data-director-at-valtech?ref=github",
     "visibility": "full"
@@ -100183,7 +100185,7 @@
     ],
     "seniority": "director",
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:41:54.992Z",
+    "verifiedAt": "2026-09-06T06:21:37.308Z",
     "scrapedAt": "2026-06-17T23:04:38.326Z",
     "url": "https://wagey.gg/jobs/f0b98d320b2e0ee8-head-of-mobile-engineering-at-valtech?ref=github",
     "visibility": "full"
@@ -100205,7 +100207,7 @@
     ],
     "seniority": "senior",
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:41:57.540Z",
+    "verifiedAt": "2026-09-06T06:21:38.339Z",
     "scrapedAt": "2026-06-17T23:04:45.635Z",
     "url": "https://wagey.gg/jobs/9c10f004b11b8fa5-senior-risk-audit-specialist-at-remote-woman?ref=github",
     "visibility": "full"
@@ -100224,7 +100226,7 @@
     ],
     "seniority": "mid",
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:41:58.395Z",
+    "verifiedAt": "2026-09-06T06:21:39.932Z",
     "scrapedAt": "2026-06-17T23:04:50.647Z",
     "url": "https://wagey.gg/jobs/5d66061a5abc2493-customer-success-manager-commercial-markets-at-planet?ref=github",
     "visibility": "full"
@@ -100246,7 +100248,7 @@
     ],
     "seniority": "senior",
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:41:58.793Z",
+    "verifiedAt": "2026-09-06T06:21:40.511Z",
     "scrapedAt": "2026-06-17T23:04:58.404Z",
     "url": "https://wagey.gg/jobs/b02bcc09f2538f3f-senior-marketing-executive-b2c-at-the-economist-group?ref=github",
     "visibility": "full"
@@ -100267,7 +100269,7 @@
     ],
     "seniority": "senior",
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:42:03.123Z",
+    "verifiedAt": "2026-09-06T06:21:56.933Z",
     "scrapedAt": "2026-06-17T23:30:57.530Z",
     "url": "https://wagey.gg/jobs/b61e89ef9a4c5e95-sr-compensation-partner-at-g-p?ref=github",
     "visibility": "full"
@@ -100289,7 +100291,7 @@
     ],
     "seniority": "senior",
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:42:04.130Z",
+    "verifiedAt": "2026-09-06T06:21:54.866Z",
     "scrapedAt": "2026-06-17T23:30:59.923Z",
     "url": "https://wagey.gg/jobs/62a675b5eeca47ac-senior-product-manager-payments-at-flo-health?ref=github",
     "visibility": "full"
@@ -100311,7 +100313,7 @@
     ],
     "seniority": "staff",
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:42:03.675Z",
+    "verifiedAt": "2026-09-06T06:21:53.658Z",
     "scrapedAt": "2026-06-17T23:31:06.076Z",
     "url": "https://wagey.gg/jobs/82d16f604c87bdaa-lead-supplier-api-account-manager-viator-at-tripadvisor?ref=github",
     "visibility": "full"
@@ -100332,7 +100334,7 @@
     ],
     "seniority": "staff",
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:42:03.865Z",
+    "verifiedAt": "2026-09-06T06:21:57.371Z",
     "scrapedAt": "2026-06-17T23:31:07.448Z",
     "url": "https://wagey.gg/jobs/89ab038ccd8fa834-service-operations-compliance-lead-viator-at-tripadvisor?ref=github",
     "visibility": "full"
@@ -100354,7 +100356,7 @@
     ],
     "seniority": "mid",
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:42:04.599Z",
+    "verifiedAt": "2026-09-06T06:22:00.023Z",
     "scrapedAt": "2026-06-17T23:31:11.492Z",
     "url": "https://wagey.gg/jobs/48d8d2b805cab34d-sales-enablement-manager-emea-at-lucid-software?ref=github",
     "visibility": "full"
@@ -100376,7 +100378,7 @@
     ],
     "seniority": "mid",
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:42:07.653Z",
+    "verifiedAt": "2026-09-06T06:21:59.926Z",
     "scrapedAt": "2026-06-17T23:31:21.936Z",
     "url": "https://wagey.gg/jobs/68e6617a9b5a143d-manager-learning-and-development-at-precision-for-medicine?ref=github",
     "visibility": "full"
@@ -100398,7 +100400,7 @@
     ],
     "seniority": "principal",
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:42:06.382Z",
+    "verifiedAt": "2026-09-06T06:21:58.827Z",
     "scrapedAt": "2026-06-17T23:31:22.026Z",
     "url": "https://wagey.gg/jobs/f1af0b46b62e7911-principal-pre-sales-solutions-consultant-pharma-life-science-at-cognite-ai-for-i?ref=github",
     "visibility": "full"
@@ -100414,7 +100416,7 @@
     "skills": [],
     "seniority": null,
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:42:08.175Z",
+    "verifiedAt": "2026-09-06T06:22:07.490Z",
     "scrapedAt": "2026-06-17T23:31:28.320Z",
     "url": "https://wagey.gg/jobs/5e24a85634eab765-network-security-engineer-at-drw?ref=github",
     "visibility": "full"
@@ -100434,7 +100436,7 @@
     ],
     "seniority": "director",
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:42:09.469Z",
+    "verifiedAt": "2026-09-06T06:22:04.908Z",
     "scrapedAt": "2026-06-17T23:31:32.602Z",
     "url": "https://wagey.gg/jobs/ef81cefe90b8a57a-director-of-engineering-remote-at-givedirectly?ref=github",
     "visibility": "full"
@@ -100450,7 +100452,7 @@
     "skills": [],
     "seniority": "staff",
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:42:13.608Z",
+    "verifiedAt": "2026-09-06T06:22:10.683Z",
     "scrapedAt": "2026-06-17T23:31:33.688Z",
     "url": "https://wagey.gg/jobs/7bf6bc9a40df67cf-machine-learning-manager-fincrime-at-monzo?ref=github",
     "visibility": "full"
@@ -100472,7 +100474,7 @@
     ],
     "seniority": "senior",
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:42:18.648Z",
+    "verifiedAt": "2026-09-06T06:22:13.989Z",
     "scrapedAt": "2026-06-17T23:31:41.229Z",
     "url": "https://wagey.gg/jobs/b471335cfac85689-senior-design-program-manager-ux-design-at-playstation-global?ref=github",
     "visibility": "full"
@@ -100493,7 +100495,7 @@
     ],
     "seniority": null,
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:42:15.556Z",
+    "verifiedAt": "2026-09-06T06:22:16.865Z",
     "scrapedAt": "2026-06-17T23:31:42.098Z",
     "url": "https://wagey.gg/jobs/d246d1175e2d28ed-ai-security-engineer-gn-at-the-quality-group-gmbh?ref=github",
     "visibility": "full"
@@ -100513,7 +100515,7 @@
     ],
     "seniority": "senior",
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:42:19.609Z",
+    "verifiedAt": "2026-09-06T06:22:27.118Z",
     "scrapedAt": "2026-06-17T23:31:43.393Z",
     "url": "https://wagey.gg/jobs/6a68a263a1654555-senior-software-engineer-at-playstation-global?ref=github",
     "visibility": "full"
@@ -100533,7 +100535,7 @@
     ],
     "seniority": "senior",
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:42:18.967Z",
+    "verifiedAt": "2026-09-06T06:22:20.319Z",
     "scrapedAt": "2026-06-17T23:31:43.521Z",
     "url": "https://wagey.gg/jobs/82e495c695daec50-senior-software-engineer-at-playstation-global?ref=github",
     "visibility": "full"
@@ -100555,7 +100557,7 @@
     ],
     "seniority": "director",
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:42:20.698Z",
+    "verifiedAt": "2026-09-06T06:22:20.691Z",
     "scrapedAt": "2026-06-17T23:31:45.358Z",
     "url": "https://wagey.gg/jobs/11dae6a19b727c71-associate-director-media-planning-at-zeta-global?ref=github",
     "visibility": "full"
@@ -100577,7 +100579,7 @@
     ],
     "seniority": "staff",
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:42:34.912Z",
+    "verifiedAt": "2026-09-06T06:22:43.863Z",
     "scrapedAt": "2026-06-17T23:31:58.541Z",
     "url": "https://wagey.gg/jobs/db180d26820a6745-channel-partner-manager-dach-region-at-devrev?ref=github",
     "visibility": "full"
@@ -100599,7 +100601,7 @@
     ],
     "seniority": "staff",
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:42:32.239Z",
+    "verifiedAt": "2026-09-06T06:22:30.465Z",
     "scrapedAt": "2026-06-17T23:31:58.947Z",
     "url": "https://wagey.gg/jobs/a2a8d976b36123fd-channel-partner-manager-southern-europe-at-devrev?ref=github",
     "visibility": "full"
@@ -100621,7 +100623,7 @@
     ],
     "seniority": "mid",
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:42:34.708Z",
+    "verifiedAt": "2026-09-06T06:22:49.646Z",
     "scrapedAt": "2026-06-17T23:31:59.909Z",
     "url": "https://wagey.gg/jobs/24d56bdc1fb29144-product-designer-design-systems-at-devrev?ref=github",
     "visibility": "full"
@@ -100641,7 +100643,7 @@
     ],
     "seniority": null,
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:42:36.818Z",
+    "verifiedAt": "2026-09-06T06:23:05.937Z",
     "scrapedAt": "2026-06-17T23:32:02.198Z",
     "url": "https://wagey.gg/jobs/d52da9c14f3bf62b-options-execution-researcher-at-algoquant?ref=github",
     "visibility": "full"
@@ -100663,7 +100665,7 @@
     ],
     "seniority": "senior",
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:42:35.128Z",
+    "verifiedAt": "2026-09-06T06:22:53.952Z",
     "scrapedAt": "2026-06-17T23:32:03.138Z",
     "url": "https://wagey.gg/jobs/516345669b5149d3-senior-quant-researcher-at-algoquant?ref=github",
     "visibility": "full"
@@ -100685,7 +100687,7 @@
     ],
     "seniority": null,
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:42:35.173Z",
+    "verifiedAt": "2026-09-06T06:22:53.926Z",
     "scrapedAt": "2026-06-17T23:32:03.141Z",
     "url": "https://wagey.gg/jobs/9d4ccecc5e7a2dc0-quant-trade-researcher-at-algoquant?ref=github",
     "visibility": "full"
@@ -100707,7 +100709,7 @@
     ],
     "seniority": null,
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:42:35.601Z",
+    "verifiedAt": "2026-09-06T06:22:52.635Z",
     "scrapedAt": "2026-06-17T23:32:05.536Z",
     "url": "https://wagey.gg/jobs/b668e5bf779c8980-executive-business-partner-at-donorbox?ref=github",
     "visibility": "full"
@@ -100729,7 +100731,7 @@
     ],
     "seniority": "senior",
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:42:37.221Z",
+    "verifiedAt": "2026-09-06T06:23:03.201Z",
     "scrapedAt": "2026-06-17T23:32:05.701Z",
     "url": "https://wagey.gg/jobs/260145d771d5dd93-senior-ai-security-engineer-at-obsidian-security?ref=github",
     "visibility": "full"
@@ -100751,7 +100753,7 @@
     ],
     "seniority": "mid",
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:42:35.371Z",
+    "verifiedAt": "2026-09-06T06:22:56.279Z",
     "scrapedAt": "2026-06-17T23:32:05.743Z",
     "url": "https://wagey.gg/jobs/f665ad0aef48162b-data-scientist-at-clarity-ai?ref=github",
     "visibility": "full"
@@ -100773,7 +100775,7 @@
     ],
     "seniority": "senior",
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:42:36.893Z",
+    "verifiedAt": "2026-09-06T06:23:00.827Z",
     "scrapedAt": "2026-06-17T23:32:05.798Z",
     "url": "https://wagey.gg/jobs/bb90cf605e1626ce-senior-security-data-engineer-at-obsidian-security?ref=github",
     "visibility": "full"
@@ -100795,7 +100797,7 @@
     ],
     "seniority": "senior",
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:42:37.621Z",
+    "verifiedAt": "2026-09-06T06:23:12.148Z",
     "scrapedAt": "2026-06-17T23:32:16.141Z",
     "url": "https://wagey.gg/jobs/e18eb571de999c00-senior-mlops-engineer-at-wellhub?ref=github",
     "visibility": "full"
@@ -100849,7 +100851,7 @@
     ],
     "seniority": "senior",
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:42:38.544Z",
+    "verifiedAt": "2026-09-06T06:23:15.789Z",
     "scrapedAt": "2026-06-17T23:32:37.450Z",
     "url": "https://wagey.gg/jobs/95ef1996020bdd1b-marketing-brand-designer-at-dex?ref=github",
     "visibility": "full"
@@ -100871,14 +100873,14 @@
     ],
     "seniority": "staff",
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:42:40.515Z",
+    "verifiedAt": "2026-09-06T06:23:23.562Z",
     "scrapedAt": "2026-06-17T23:32:42.043Z",
     "url": "https://wagey.gg/jobs/ae72f17c9a0ab6bd-insurance-ai-solutions-lead-at-furtherai?ref=github",
     "visibility": "full"
   },
   {
     "id": "68d2000fadd424f2",
-    "title": "Senior Business Systems Analyst",
+    "title": "Senior Business Systems Analyst (Salesforce)",
     "company": "goodlord",
     "region": "EMEA",
     "salary": "",
@@ -100889,9 +100891,9 @@
     ],
     "seniority": "senior",
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:42:43.116Z",
+    "verifiedAt": "2026-09-06T06:23:32.512Z",
     "scrapedAt": "2026-06-17T23:32:45.546Z",
-    "url": "https://wagey.gg/jobs/68d2000fadd424f2-senior-business-systems-analyst-at-goodlord?ref=github",
+    "url": "https://wagey.gg/jobs/68d2000fadd424f2-senior-business-systems-analyst-salesforce-at-goodlord?ref=github",
     "visibility": "full"
   },
   {
@@ -100908,14 +100910,14 @@
     ],
     "seniority": "senior",
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:42:44.615Z",
+    "verifiedAt": "2026-09-06T06:23:30.775Z",
     "scrapedAt": "2026-06-17T23:32:48.144Z",
     "url": "https://wagey.gg/jobs/edec854a8307de60-senior-backend-engineer-platform-security-uk-at-goteleport?ref=github",
     "visibility": "full"
   },
   {
     "id": "92ad76ef9c397c1d",
-    "title": "Staff AI Engineer, Robot Learning (Navigation)",
+    "title": "Staff AI Engineer - Robot Learning (Navigation)",
     "company": "humanoid",
     "region": "EMEA",
     "salary": "",
@@ -100927,7 +100929,7 @@
     ],
     "seniority": "staff",
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:42:48.938Z",
+    "verifiedAt": "2026-09-06T06:23:45.090Z",
     "scrapedAt": "2026-06-17T23:32:50.729Z",
     "url": "https://wagey.gg/jobs/92ad76ef9c397c1d-staff-ai-engineer-robot-learning-navigation-at-humanoid?ref=github",
     "visibility": "full"
@@ -100948,7 +100950,7 @@
     ],
     "seniority": "staff",
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:42:48.982Z",
+    "verifiedAt": "2026-09-06T06:23:41.783Z",
     "scrapedAt": "2026-06-17T23:32:50.776Z",
     "url": "https://wagey.gg/jobs/cff5cf87e92ec50a-staff-senior-robotics-software-engineer-simulation-at-humanoid?ref=github",
     "visibility": "full"
@@ -101032,7 +101034,7 @@
     ],
     "seniority": "senior",
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:42:59.436Z",
+    "verifiedAt": "2026-09-06T06:25:01.624Z",
     "scrapedAt": "2026-06-17T23:32:52.487Z",
     "url": "https://wagey.gg/jobs/ac2cbb6b6cba5472-robotics-repair-centre-manager-at-humanoid?ref=github",
     "visibility": "full"
@@ -101050,7 +101052,7 @@
     ],
     "seniority": null,
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:42:49.745Z",
+    "verifiedAt": "2026-09-06T06:23:49.703Z",
     "scrapedAt": "2026-06-17T23:32:52.524Z",
     "url": "https://wagey.gg/jobs/3d6ce4252ac0995f-platform-engineer-build-and-ci-at-humanoid?ref=github",
     "visibility": "full"
@@ -101071,7 +101073,7 @@
     ],
     "seniority": null,
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:42:58.454Z",
+    "verifiedAt": "2026-09-06T06:25:03.978Z",
     "scrapedAt": "2026-06-17T23:32:52.526Z",
     "url": "https://wagey.gg/jobs/9e2d59843ca413c5-software-engineer-data-sensors-at-humanoid?ref=github",
     "visibility": "full"
@@ -101116,7 +101118,7 @@
     ],
     "seniority": null,
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:42:59.620Z",
+    "verifiedAt": "2026-09-06T06:25:13.928Z",
     "scrapedAt": "2026-06-17T23:32:53.062Z",
     "url": "https://wagey.gg/jobs/5416542dd9648cc3-software-engineer-workflow-authoring-deployment-at-humanoid?ref=github",
     "visibility": "full"
@@ -101135,7 +101137,7 @@
     ],
     "seniority": "staff",
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:43:00.115Z",
+    "verifiedAt": "2026-09-06T06:25:18.884Z",
     "scrapedAt": "2026-06-17T23:32:53.428Z",
     "url": "https://wagey.gg/jobs/c943f94a2477d9b8-member-of-technical-staff-post-training-at-inherent?ref=github",
     "visibility": "full"
@@ -101173,7 +101175,7 @@
     ],
     "seniority": "staff",
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:43:01.850Z",
+    "verifiedAt": "2026-09-06T06:25:48.963Z",
     "scrapedAt": "2026-06-17T23:32:53.824Z",
     "url": "https://wagey.gg/jobs/b1dfea47387d7e8f-member-of-technical-staff-factory-redesign-at-inherent?ref=github",
     "visibility": "full"
@@ -101195,7 +101197,7 @@
     ],
     "seniority": "staff",
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:43:02.699Z",
+    "verifiedAt": "2026-09-06T06:26:20.346Z",
     "scrapedAt": "2026-06-17T23:32:53.826Z",
     "url": "https://wagey.gg/jobs/478de3a3b5be38c3-member-of-technical-staff-infrastructure-engineer-training-and-inference-systems?ref=github",
     "visibility": "full"
@@ -101262,7 +101264,7 @@
     ],
     "seniority": "mid",
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:43:07.453Z",
+    "verifiedAt": "2026-09-06T06:27:07.645Z",
     "scrapedAt": "2026-06-17T23:32:55.359Z",
     "url": "https://wagey.gg/jobs/87ceb0bd5731c07c-german-speaking-account-executive-smb-emea-d-f-m-at-leapsome?ref=github",
     "visibility": "full"
@@ -101280,7 +101282,7 @@
     ],
     "seniority": "senior",
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:43:07.271Z",
+    "verifiedAt": "2026-09-06T06:27:05.098Z",
     "scrapedAt": "2026-06-17T23:32:56.955Z",
     "url": "https://wagey.gg/jobs/f01c1a7424ff16a9-technical-presales-specialist-uk-at-lyric?ref=github",
     "visibility": "full"
@@ -101300,7 +101302,7 @@
     ],
     "seniority": "junior",
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:43:11.198Z",
+    "verifiedAt": "2026-09-06T06:27:30.938Z",
     "scrapedAt": "2026-06-17T23:32:57.775Z",
     "url": "https://wagey.gg/jobs/917b02117235ebbd-junior-operations-manager-in-finanzprodukte-at-nelly-solutions?ref=github",
     "visibility": "full"
@@ -101320,7 +101322,7 @@
     ],
     "seniority": null,
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:43:13.991Z",
+    "verifiedAt": "2026-09-06T06:27:47.277Z",
     "scrapedAt": "2026-06-17T23:32:58.552Z",
     "url": "https://wagey.gg/jobs/ffbaedf0ed70cfe8-computer-vision-research-scientist-engineer-at-niantic-spatial?ref=github",
     "visibility": "full"
@@ -101342,7 +101344,7 @@
     ],
     "seniority": "junior",
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:43:21.075Z",
+    "verifiedAt": "2026-09-06T06:28:39.161Z",
     "scrapedAt": "2026-06-17T23:33:00.655Z",
     "url": "https://wagey.gg/jobs/eaf8108c03e7b5d3-sales-development-representative-london-at-outset?ref=github",
     "visibility": "full"
@@ -101364,7 +101366,7 @@
     ],
     "seniority": null,
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:43:23.686Z",
+    "verifiedAt": "2026-09-06T06:29:14.874Z",
     "scrapedAt": "2026-06-17T23:33:01.859Z",
     "url": "https://wagey.gg/jobs/06f6d2ebeb952f41-account-executive-agency-growth-at-searchable?ref=github",
     "visibility": "full"
@@ -101414,7 +101416,7 @@
     ],
     "seniority": "senior",
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:43:27.055Z",
+    "verifiedAt": "2026-09-06T06:29:23.772Z",
     "scrapedAt": "2026-06-17T23:33:06.386Z",
     "url": "https://wagey.gg/jobs/10e6288a00b0b9de-business-development-manager-immunoassays-biomarkers-emea-at-spearbio?ref=github",
     "visibility": "full"
@@ -101436,7 +101438,7 @@
     ],
     "seniority": null,
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:43:31.223Z",
+    "verifiedAt": "2026-09-06T09:03:54.072Z",
     "scrapedAt": "2026-06-17T23:33:09.062Z",
     "url": "https://wagey.gg/jobs/17f2be9be429448a-global-accounts-payable-manager-at-strava?ref=github",
     "visibility": "full"
@@ -101455,7 +101457,7 @@
     ],
     "seniority": "staff",
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:43:32.438Z",
+    "verifiedAt": "2026-09-06T09:04:07.469Z",
     "scrapedAt": "2026-06-17T23:33:09.495Z",
     "url": "https://wagey.gg/jobs/9e83af3890ead85f-game-lead-boom-beach-at-supercell?ref=github",
     "visibility": "full"
@@ -101475,7 +101477,7 @@
     ],
     "seniority": "senior",
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:43:34.901Z",
+    "verifiedAt": "2026-09-06T09:04:41.127Z",
     "scrapedAt": "2026-06-17T23:33:09.864Z",
     "url": "https://wagey.gg/jobs/ab209444f7bb8776-senior-fund-operations-manager-at-bunch?ref=github",
     "visibility": "full"
@@ -101494,7 +101496,7 @@
     ],
     "seniority": "principal",
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:43:35.368Z",
+    "verifiedAt": "2026-09-06T09:04:50.491Z",
     "scrapedAt": "2026-06-17T23:33:13.339Z",
     "url": "https://wagey.gg/jobs/848a6b8752b3db6f-solutions-architect-at-synthesia?ref=github",
     "visibility": "full"
@@ -101514,7 +101516,7 @@
     ],
     "seniority": "staff",
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:43:37.741Z",
+    "verifiedAt": "2026-09-06T09:05:00.821Z",
     "scrapedAt": "2026-06-17T23:33:16.041Z",
     "url": "https://wagey.gg/jobs/a700283e07d0936f-senior-staff-design-for-test-engineer-at-olix?ref=github",
     "visibility": "full"
@@ -101535,7 +101537,7 @@
     ],
     "seniority": "senior",
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:43:37.923Z",
+    "verifiedAt": "2026-09-06T09:05:03.453Z",
     "scrapedAt": "2026-06-17T23:33:16.669Z",
     "url": "https://wagey.gg/jobs/21890290a73a1385-digital-design-verification-engineer-at-olix?ref=github",
     "visibility": "full"
@@ -101557,7 +101559,7 @@
     ],
     "seniority": "staff",
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:43:38.630Z",
+    "verifiedAt": "2026-09-06T09:05:05.112Z",
     "scrapedAt": "2026-06-17T23:33:16.909Z",
     "url": "https://wagey.gg/jobs/ba5f3179849bc147-senior-analytics-engineering-manager-at-deliveroo?ref=github",
     "visibility": "full"
@@ -101579,7 +101581,7 @@
     ],
     "seniority": "mid",
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:43:44.310Z",
+    "verifiedAt": "2026-09-06T09:05:57.438Z",
     "scrapedAt": "2026-06-17T23:33:28.801Z",
     "url": "https://wagey.gg/jobs/13500611b52724e2-commercial-account-executive-uki-at-1password?ref=github",
     "visibility": "full"
@@ -101601,7 +101603,7 @@
     ],
     "seniority": "senior",
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:43:44.597Z",
+    "verifiedAt": "2026-09-06T09:05:55.200Z",
     "scrapedAt": "2026-06-17T23:33:29.031Z",
     "url": "https://wagey.gg/jobs/5b560df9f00fb7be-senior-accountant-at-swap?ref=github",
     "visibility": "full"
@@ -101623,7 +101625,7 @@
     ],
     "seniority": "senior",
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:43:46.728Z",
+    "verifiedAt": "2026-09-06T09:06:19.368Z",
     "scrapedAt": "2026-06-17T23:33:29.044Z",
     "url": "https://wagey.gg/jobs/70cddba98ba6ddfa-customer-success-manager-emea-at-hackerone?ref=github",
     "visibility": "full"
@@ -101645,7 +101647,7 @@
     ],
     "seniority": "senior",
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:43:47.673Z",
+    "verifiedAt": "2026-09-06T09:06:19.367Z",
     "scrapedAt": "2026-06-17T23:33:31.686Z",
     "url": "https://wagey.gg/jobs/da65e11e13f7f44d-senior-sales-development-representative-uki-at-horizon3ai?ref=github",
     "visibility": "full"
@@ -101665,7 +101667,7 @@
     ],
     "seniority": null,
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:43:54.254Z",
+    "verifiedAt": "2026-09-06T09:06:39.951Z",
     "scrapedAt": "2026-06-17T23:33:34.285Z",
     "url": "https://wagey.gg/jobs/f16781f49deb971c-manager-bank-relationships-at-checkout-com?ref=github",
     "visibility": "full"
@@ -101684,7 +101686,7 @@
     ],
     "seniority": "junior",
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:43:55.360Z",
+    "verifiedAt": "2026-09-06T09:06:39.984Z",
     "scrapedAt": "2026-06-17T23:33:34.660Z",
     "url": "https://wagey.gg/jobs/2705e04f2e27444d-associate-digital-content-writer-at-checkout-com?ref=github",
     "visibility": "full"
@@ -101706,7 +101708,7 @@
     ],
     "seniority": "senior",
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:43:54.076Z",
+    "verifiedAt": "2026-09-06T09:06:34.934Z",
     "scrapedAt": "2026-06-17T23:33:34.680Z",
     "url": "https://wagey.gg/jobs/5bcf030565685f82-senior-specialist-marketing-operations-at-checkout-com?ref=github",
     "visibility": "full"
@@ -101725,7 +101727,7 @@
     ],
     "seniority": "senior",
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:43:54.431Z",
+    "verifiedAt": "2026-09-06T09:06:32.262Z",
     "scrapedAt": "2026-06-17T23:33:35.772Z",
     "url": "https://wagey.gg/jobs/21c550006b401b30-senior-analyst-financial-crime-product-compliance-at-checkout-com?ref=github",
     "visibility": "full"
@@ -101747,7 +101749,7 @@
     ],
     "seniority": "principal",
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:43:57.417Z",
+    "verifiedAt": "2026-09-06T09:06:51.513Z",
     "scrapedAt": "2026-06-17T23:33:36.986Z",
     "url": "https://wagey.gg/jobs/3aa023419db1912f-principal-solutions-engineer-observe-by-snowflake-at-snowflake?ref=github",
     "visibility": "full"
@@ -101799,7 +101801,7 @@
     ],
     "seniority": null,
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:43:56.227Z",
+    "verifiedAt": "2026-09-06T09:06:42.367Z",
     "scrapedAt": "2026-06-17T23:33:38.147Z",
     "url": "https://wagey.gg/jobs/1102094fca57dd55-operations-manager-trade-at-checkatrade?ref=github",
     "visibility": "full"
@@ -101821,7 +101823,7 @@
     ],
     "seniority": "senior",
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:43:57.464Z",
+    "verifiedAt": "2026-09-06T09:06:57.574Z",
     "scrapedAt": "2026-06-17T23:33:40.749Z",
     "url": "https://wagey.gg/jobs/1c218e51843e5b2d-senior-field-marketing-manager-at-snowflake?ref=github",
     "visibility": "full"
@@ -101834,10 +101836,14 @@
     "salary": "$146k–$205k/year",
     "salaryMin": 145800,
     "salaryMax": 205200,
-    "skills": [],
+    "skills": [
+      "TypeScript",
+      "React",
+      "Fastify"
+    ],
     "seniority": null,
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:43:58.950Z",
+    "verifiedAt": "2026-09-06T09:07:02.318Z",
     "scrapedAt": "2026-06-17T23:33:42.583Z",
     "url": "https://wagey.gg/jobs/71298f26dab6e878-data-engineer-eu-uk-based-remote-at-duvo-inc?ref=github",
     "visibility": "full"
@@ -101858,7 +101864,7 @@
     ],
     "seniority": "senior",
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:44:01.955Z",
+    "verifiedAt": "2026-09-06T09:07:14.197Z",
     "scrapedAt": "2026-06-17T23:33:43.613Z",
     "url": "https://wagey.gg/jobs/025c1a5959d60a25-senior-creative-producer-at-ruby-labs?ref=github",
     "visibility": "full"
@@ -101880,7 +101886,7 @@
     ],
     "seniority": "mid",
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:44:00.564Z",
+    "verifiedAt": "2026-09-06T09:07:03.981Z",
     "scrapedAt": "2026-06-17T23:33:45.806Z",
     "url": "https://wagey.gg/jobs/3ee24e022b2a07f2-performance-marketing-manager-paid-social-at-ruby-labs?ref=github",
     "visibility": "full"
@@ -101947,7 +101953,7 @@
     ],
     "seniority": "staff",
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:44:06.031Z",
+    "verifiedAt": "2026-09-06T09:07:21.389Z",
     "scrapedAt": "2026-06-17T23:33:48.634Z",
     "url": "https://wagey.gg/jobs/45386ed54495b8a1-bnpl-risk-lead-at-abound?ref=github",
     "visibility": "full"
@@ -101969,7 +101975,7 @@
     ],
     "seniority": "director",
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:44:05.814Z",
+    "verifiedAt": "2026-09-06T09:07:21.387Z",
     "scrapedAt": "2026-06-17T23:33:48.807Z",
     "url": "https://wagey.gg/jobs/ed4713983846a539-data-science-chief-of-staff-at-abound?ref=github",
     "visibility": "full"
@@ -101991,7 +101997,7 @@
     ],
     "seniority": "mid",
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:44:08.906Z",
+    "verifiedAt": "2026-09-06T09:07:22.821Z",
     "scrapedAt": "2026-06-17T23:33:49.463Z",
     "url": "https://wagey.gg/jobs/b828175441fb6ce3-onboarding-risk-manager-at-paddle?ref=github",
     "visibility": "full"
@@ -102001,9 +102007,9 @@
     "title": "Director of FP&A ",
     "company": "paddle",
     "region": "EMEA",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
+    "salary": "$120k–$150k/year",
+    "salaryMin": 119880,
+    "salaryMax": 150338,
     "skills": [
       "Coaching",
       "Budget Forecasting",
@@ -102011,7 +102017,7 @@
     ],
     "seniority": "director",
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:44:10.114Z",
+    "verifiedAt": "2026-09-06T09:07:34.153Z",
     "scrapedAt": "2026-06-17T23:33:50.262Z",
     "url": "https://wagey.gg/jobs/8cfa404ac4dcfe21-director-of-fp-a-at-paddle?ref=github",
     "visibility": "full"
@@ -102057,7 +102063,7 @@
     ],
     "seniority": null,
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:44:11.421Z",
+    "verifiedAt": "2026-09-06T09:07:43.581Z",
     "scrapedAt": "2026-06-17T23:33:51.069Z",
     "url": "https://wagey.gg/jobs/0cd2cf99e0ce4a3e-middle-marketing-analyst-at-kissmyapps?ref=github",
     "visibility": "full"
@@ -102076,7 +102082,7 @@
     ],
     "seniority": "staff",
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:44:10.408Z",
+    "verifiedAt": "2026-09-06T09:07:41.871Z",
     "scrapedAt": "2026-06-17T23:33:52.048Z",
     "url": "https://wagey.gg/jobs/c32584967cf916f1-outsourcing-and-third-party-risk-management-lead-at-teya?ref=github",
     "visibility": "full"
@@ -102097,7 +102103,7 @@
     ],
     "seniority": "staff",
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:44:11.473Z",
+    "verifiedAt": "2026-09-06T09:07:43.597Z",
     "scrapedAt": "2026-06-17T23:33:52.301Z",
     "url": "https://wagey.gg/jobs/a796a2145a81cd0e-customer-due-diligence-cdd-operations-lead-at-teya?ref=github",
     "visibility": "full"
@@ -102119,7 +102125,7 @@
     ],
     "seniority": "senior",
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:44:14.461Z",
+    "verifiedAt": "2026-09-06T09:07:49.732Z",
     "scrapedAt": "2026-06-17T23:33:56.680Z",
     "url": "https://wagey.gg/jobs/da0122ee498a9c15-senior-people-partner-at-fonoa?ref=github",
     "visibility": "full"
@@ -102138,7 +102144,7 @@
     ],
     "seniority": "senior",
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:44:14.716Z",
+    "verifiedAt": "2026-09-06T09:07:58.364Z",
     "scrapedAt": "2026-06-17T23:33:57.604Z",
     "url": "https://wagey.gg/jobs/ee0833aeddc310cb-global-investigations-sextortion-at-trm-labs?ref=github",
     "visibility": "full"
@@ -102158,7 +102164,7 @@
     ],
     "seniority": null,
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:44:17.888Z",
+    "verifiedAt": "2026-09-06T09:07:59.946Z",
     "scrapedAt": "2026-06-17T23:33:57.935Z",
     "url": "https://wagey.gg/jobs/195356fd431b6e0e-ugc-coordinator-dressly-at-skelar?ref=github",
     "visibility": "full"
@@ -102180,7 +102186,7 @@
     ],
     "seniority": "senior",
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:44:20.152Z",
+    "verifiedAt": "2026-09-06T09:08:01.576Z",
     "scrapedAt": "2026-06-17T23:33:58.269Z",
     "url": "https://wagey.gg/jobs/5ad10c8e451eb936-senior-product-marketing-manager-dressly-at-skelar?ref=github",
     "visibility": "full"
@@ -102202,7 +102208,7 @@
     ],
     "seniority": null,
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:44:25.336Z",
+    "verifiedAt": "2026-09-06T09:08:27.637Z",
     "scrapedAt": "2026-06-17T23:34:02.295Z",
     "url": "https://wagey.gg/jobs/4395c2dcd7e0af2d-communications-manager-at-elliptic?ref=github",
     "visibility": "full"
@@ -102220,7 +102226,7 @@
     ],
     "seniority": "director",
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:44:25.929Z",
+    "verifiedAt": "2026-09-06T09:08:38.910Z",
     "scrapedAt": "2026-06-17T23:34:04.586Z",
     "url": "https://wagey.gg/jobs/8061ef09fb156136-head-of-product-marketing-at-loveholidays?ref=github",
     "visibility": "full"
@@ -102258,7 +102264,7 @@
     ],
     "seniority": null,
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:44:34.737Z",
+    "verifiedAt": "2026-09-06T09:09:12.456Z",
     "scrapedAt": "2026-06-17T23:34:11.278Z",
     "url": "https://wagey.gg/jobs/bcb0f9a9d573e421-partnerships-manager-eu-at-primer-io?ref=github",
     "visibility": "full"
@@ -102280,7 +102286,7 @@
     ],
     "seniority": "principal",
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:44:36.117Z",
+    "verifiedAt": "2026-09-06T09:09:14.441Z",
     "scrapedAt": "2026-06-17T23:34:11.305Z",
     "url": "https://wagey.gg/jobs/e5318fa95e669762-staff-architect-tech-lead-nda-at-gt-hq?ref=github",
     "visibility": "full"
@@ -102302,7 +102308,7 @@
     ],
     "seniority": "vp",
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:44:37.943Z",
+    "verifiedAt": "2026-09-06T12:54:46.431Z",
     "scrapedAt": "2026-06-17T23:34:16.315Z",
     "url": "https://wagey.gg/jobs/c83bfb03d4f3ea60-vp-business-development-at-substrate-bio?ref=github",
     "visibility": "full"
@@ -102324,7 +102330,7 @@
     ],
     "seniority": null,
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:44:38.381Z",
+    "verifiedAt": "2026-09-06T12:54:46.756Z",
     "scrapedAt": "2026-06-17T23:34:17.001Z",
     "url": "https://wagey.gg/jobs/a7879b8bd0ebf3ce-community-manager-at-substrate-bio?ref=github",
     "visibility": "full"
@@ -102346,7 +102352,7 @@
     ],
     "seniority": null,
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:44:38.731Z",
+    "verifiedAt": "2026-09-06T12:54:50.619Z",
     "scrapedAt": "2026-06-17T23:34:17.545Z",
     "url": "https://wagey.gg/jobs/cb85de8661d8db11-middle-java-engineer-payments-at-patrianna?ref=github",
     "visibility": "full"
@@ -102366,7 +102372,7 @@
     ],
     "seniority": "senior",
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:44:38.601Z",
+    "verifiedAt": "2026-09-06T12:54:47.398Z",
     "scrapedAt": "2026-06-17T23:34:17.576Z",
     "url": "https://wagey.gg/jobs/21d566d9d8644e18-senior-services-engagement-manager-emea-at-ironcladhq?ref=github",
     "visibility": "full"
@@ -102388,7 +102394,7 @@
     ],
     "seniority": null,
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:44:40.949Z",
+    "verifiedAt": "2026-09-06T12:55:12.582Z",
     "scrapedAt": "2026-06-17T23:34:20.657Z",
     "url": "https://wagey.gg/jobs/3881571d9d14c744-business-development-at-ramp?ref=github",
     "visibility": "full"
@@ -102402,14 +102408,15 @@
     "salaryMin": null,
     "salaryMax": null,
     "skills": [
+      "Product Marketing",
       "Campaign Management",
       "Reporting",
-      "Product Marketing",
-      "Unit"
+      "Unit",
+      "SEO"
     ],
     "seniority": "senior",
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:44:41.212Z",
+    "verifiedAt": "2026-09-06T12:55:15.728Z",
     "scrapedAt": "2026-06-17T23:34:22.900Z",
     "url": "https://wagey.gg/jobs/bb9fc3ee7d6d54ef-senior-partnerships-product-manager-based-in-europe-at-hostinger?ref=github",
     "visibility": "full"
@@ -102431,7 +102438,7 @@
     ],
     "seniority": "mid",
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:44:41.696Z",
+    "verifiedAt": "2026-09-06T12:55:22.930Z",
     "scrapedAt": "2026-06-17T23:34:23.833Z",
     "url": "https://wagey.gg/jobs/04404d74dcd8f89d-product-data-analyst-eu-based-remote-at-hostinger?ref=github",
     "visibility": "full"
@@ -102453,7 +102460,7 @@
     ],
     "seniority": "senior",
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:44:42.061Z",
+    "verifiedAt": "2026-09-06T12:55:28.079Z",
     "scrapedAt": "2026-06-17T23:34:24.804Z",
     "url": "https://wagey.gg/jobs/6a03e145e4ecb808-emea-solutions-engineering-specialist-at-kong?ref=github",
     "visibility": "full"
@@ -102473,7 +102480,7 @@
     ],
     "seniority": "senior",
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:44:45.837Z",
+    "verifiedAt": "2026-09-06T12:55:51.417Z",
     "scrapedAt": "2026-06-17T23:34:37.546Z",
     "url": "https://wagey.gg/jobs/f781a067e1f7cb83-product-manager-regulatory-outputs-product-intelligence-at-worldly?ref=github",
     "visibility": "full"
@@ -102495,7 +102502,7 @@
     ],
     "seniority": "junior",
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:44:45.750Z",
+    "verifiedAt": "2026-09-06T12:55:53.006Z",
     "scrapedAt": "2026-06-17T23:34:40.351Z",
     "url": "https://wagey.gg/jobs/29dfa4bf66f8c7d7-commercial-associate-at-lendable?ref=github",
     "visibility": "full"
@@ -102542,7 +102549,7 @@
     ],
     "seniority": "mid",
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:44:47.555Z",
+    "verifiedAt": "2026-09-06T12:56:01.013Z",
     "scrapedAt": "2026-06-17T23:34:42.167Z",
     "url": "https://wagey.gg/jobs/fe2e220bab3c0afe-events-community-manager-uk-at-partly-com?ref=github",
     "visibility": "full"
@@ -102561,7 +102568,7 @@
     ],
     "seniority": "mid",
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:44:48.329Z",
+    "verifiedAt": "2026-09-06T12:56:03.722Z",
     "scrapedAt": "2026-06-17T23:34:42.896Z",
     "url": "https://wagey.gg/jobs/292404fec4c4b208-portfolio-analytics-and-forecasts-actuary-at-alan?ref=github",
     "visibility": "full"
@@ -102582,7 +102589,7 @@
     ],
     "seniority": null,
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:44:48.498Z",
+    "verifiedAt": "2026-09-06T12:56:01.276Z",
     "scrapedAt": "2026-06-17T23:34:44.983Z",
     "url": "https://wagey.gg/jobs/8bd338e0f90d2619-fullstack-software-engineer-frontend-t-shaped-x-f-m-growth-product-at-alan?ref=github",
     "visibility": "full"
@@ -102604,7 +102611,7 @@
     ],
     "seniority": "staff",
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:44:49.981Z",
+    "verifiedAt": "2026-09-06T12:56:09.721Z",
     "scrapedAt": "2026-06-17T23:34:46.140Z",
     "url": "https://wagey.gg/jobs/dc6f4b39ea07e4a7-security-lead-at-alan?ref=github",
     "visibility": "full"
@@ -102623,7 +102630,7 @@
     ],
     "seniority": "senior",
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:44:47.815Z",
+    "verifiedAt": "2026-09-06T12:56:00.961Z",
     "scrapedAt": "2026-06-17T23:34:46.947Z",
     "url": "https://wagey.gg/jobs/fd89ac7f2c6f3b9e-senior-electronic-hardware-engineer-at-xyz-reality?ref=github",
     "visibility": "full"
@@ -102643,7 +102650,7 @@
     ],
     "seniority": "senior",
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:44:53.028Z",
+    "verifiedAt": "2026-09-06T12:56:35.365Z",
     "scrapedAt": "2026-06-17T23:34:48.572Z",
     "url": "https://wagey.gg/jobs/23f95ca2d27a31a3-senior-people-partner-at-sona?ref=github",
     "visibility": "full"
@@ -140238,7 +140245,7 @@
     "skills": [],
     "seniority": null,
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:35:36.449Z",
+    "verifiedAt": "2026-09-06T06:13:14.797Z",
     "scrapedAt": "2026-07-22T06:55:45.517Z",
     "url": "https://wagey.gg/jobs/ddbc069ff8370156-motorhome-technician-m-f-d-uk-at-roadsurfer?ref=github",
     "visibility": "full"
@@ -140259,7 +140266,7 @@
     ],
     "seniority": "mid",
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:35:39.655Z",
+    "verifiedAt": "2026-09-06T06:13:32.665Z",
     "scrapedAt": "2026-07-22T06:56:09.526Z",
     "url": "https://wagey.gg/jobs/6116e77018bc848c-software-engineer-genai-platform-at-deliveroo?ref=github",
     "visibility": "full"
@@ -140273,23 +140280,15 @@
     "salaryMin": 1000000,
     "salaryMax": 1000000,
     "skills": [
-      "Vercel",
-      "Close",
-      "Account Management",
-      "CSAT",
-      "ACV",
-      "Next.js",
-      "Procurement",
       "AWS",
-      "MongoDB",
-      "Snowflake",
-      "Cloudflare",
-      "Datadog",
-      "Customer Success"
+      "GCP",
+      "Azure",
+      "Vercel",
+      "Next.js"
     ],
     "seniority": "senior",
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:36:06.214Z",
+    "verifiedAt": "2026-09-06T06:15:01.724Z",
     "scrapedAt": "2026-07-22T06:57:44.451Z",
     "url": "https://wagey.gg/jobs/06812e985d28a275-technical-account-manager-at-vercel?ref=github",
     "visibility": "full"
@@ -140412,7 +140411,7 @@
     ],
     "seniority": "director",
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:40:10.501Z",
+    "verifiedAt": "2026-09-06T06:18:37.553Z",
     "scrapedAt": "2026-07-22T07:19:02.334Z",
     "url": "https://wagey.gg/jobs/a8fd762844a42bbe-head-of-content-remote-at-xapo-bank?ref=github",
     "visibility": "full"
@@ -140432,7 +140431,7 @@
     ],
     "seniority": "senior",
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:41:40.195Z",
+    "verifiedAt": "2026-09-06T06:21:16.759Z",
     "scrapedAt": "2026-07-22T07:22:41.535Z",
     "url": "https://wagey.gg/jobs/8d770983810ffd7f-senior-product-manager-retail-at-deliveroo?ref=github",
     "visibility": "full"
@@ -140450,7 +140449,7 @@
     ],
     "seniority": null,
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:42:06.060Z",
+    "verifiedAt": "2026-09-06T06:21:58.516Z",
     "scrapedAt": "2026-07-22T07:24:25.270Z",
     "url": "https://wagey.gg/jobs/83e4155211864afa-general-assistant-18h-bordeaux-at-deliveroo?ref=github",
     "visibility": "full"
@@ -140471,7 +140470,7 @@
     ],
     "seniority": "mid",
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:42:40.248Z",
+    "verifiedAt": "2026-09-06T06:23:25.722Z",
     "scrapedAt": "2026-07-22T07:25:55.833Z",
     "url": "https://wagey.gg/jobs/8ea7ad99549bf7c3-software-engineer-machine-learning-infrastructure-at-deliveroo?ref=github",
     "visibility": "full"
@@ -140489,30 +140488,18 @@
       "Prospecting",
       "Salesforce",
       "Looker",
-      "Slack",
-      "Notion",
-      "Linear",
-      "Product Marketing",
-      "Outreach",
-      "Swift",
-      "Objective-C",
-      "React Native",
-      "Kotlin",
-      "Java",
-      "Dart",
-      "TypeScript",
-      "Flutter"
+      "Slack"
     ],
     "seniority": "senior",
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:42:47.083Z",
+    "verifiedAt": "2026-09-06T06:23:38.660Z",
     "scrapedAt": "2026-07-22T07:26:18.828Z",
     "url": "https://wagey.gg/jobs/d2d5fa7f9623d234-senior-sales-engineer-at-revenuecat?ref=github",
     "visibility": "full"
   },
   {
     "id": "4db1eece3ee2fa02",
-    "title": "Digital Marketing Manager",
+    "title": "CampusWorks, Inc. - Digital Marketing Manager",
     "company": "campusworksinc",
     "region": "EMEA",
     "salary": "",
@@ -140523,25 +140510,13 @@
       "Reporting",
       "Conversion Rate Optimization",
       "SEO",
-      "Lead Generation",
-      "Prospecting",
-      "Budget Management",
-      "Market Research",
-      "Program Management",
-      "Salesforce",
-      "B2B",
-      "Google Analytics",
-      "CRO",
-      "Email Marketing",
-      "CRM Management",
-      "CTR",
-      "Competitive Analysis"
+      "Lead Generation"
     ],
     "seniority": "senior",
     "ats": "lever",
-    "verifiedAt": "2026-07-28T22:42:56.882Z",
+    "verifiedAt": "2026-09-06T06:24:40.779Z",
     "scrapedAt": "2026-07-22T07:26:31.006Z",
-    "url": "https://wagey.gg/jobs/4db1eece3ee2fa02-digital-marketing-manager-at-campusworksinc?ref=github",
+    "url": "https://wagey.gg/jobs/4db1eece3ee2fa02-campusworks-inc-digital-marketing-manager-at-campusworksinc?ref=github",
     "visibility": "full"
   },
   {
@@ -140557,7 +140532,7 @@
     ],
     "seniority": "mid",
     "ats": "lever",
-    "verifiedAt": "2026-07-28T22:42:55.290Z",
+    "verifiedAt": "2026-09-06T06:24:23.238Z",
     "scrapedAt": "2026-07-22T07:26:34.324Z",
     "url": "https://wagey.gg/jobs/9cbd70077fd03d3b-account-executive-emea-at-cin7?ref=github",
     "visibility": "full"
@@ -140579,14 +140554,14 @@
     ],
     "seniority": "staff",
     "ats": "lever",
-    "verifiedAt": "2026-07-28T22:42:59.096Z",
+    "verifiedAt": "2026-09-06T06:25:01.472Z",
     "scrapedAt": "2026-07-22T07:26:37.772Z",
     "url": "https://wagey.gg/jobs/51e07b547de4b238-product-development-lead-consumer-products-at-cirquedusoleil?ref=github",
     "visibility": "full"
   },
   {
     "id": "0d3a3dbc11e413ea",
-    "title": "Senior Director of International Sales",
+    "title": "Ataccama - Senior Director of International Sales",
     "company": "ataccama",
     "region": "EMEA",
     "salary": "",
@@ -140598,9 +140573,9 @@
     ],
     "seniority": "director",
     "ats": "lever",
-    "verifiedAt": "2026-07-28T22:42:57.323Z",
+    "verifiedAt": "2026-09-06T06:24:56.332Z",
     "scrapedAt": "2026-07-22T07:26:37.853Z",
-    "url": "https://wagey.gg/jobs/0d3a3dbc11e413ea-senior-director-of-international-sales-at-ataccama?ref=github",
+    "url": "https://wagey.gg/jobs/0d3a3dbc11e413ea-ataccama-senior-director-of-international-sales-at-ataccama?ref=github",
     "visibility": "full"
   },
   {
@@ -140616,7 +140591,7 @@
     ],
     "seniority": "director",
     "ats": "lever",
-    "verifiedAt": "2026-07-28T22:42:57.608Z",
+    "verifiedAt": "2026-09-06T06:25:00.418Z",
     "scrapedAt": "2026-07-22T07:26:37.855Z",
     "url": "https://wagey.gg/jobs/bb437cd17ece12b2-director-of-product-at-ataccama?ref=github",
     "visibility": "full"
@@ -140631,16 +140606,14 @@
     "salaryMax": null,
     "skills": [
       "Customer Training",
+      "Program Management",
       "Customer Success",
       "Account Management",
-      "Program Management",
-      "Customer Onboarding",
-      "Cross-selling",
-      "Upselling"
+      "Customer Onboarding"
     ],
     "seniority": "senior",
     "ats": "lever",
-    "verifiedAt": "2026-07-28T22:42:58.730Z",
+    "verifiedAt": "2026-09-06T06:25:31.159Z",
     "scrapedAt": "2026-07-22T07:26:38.024Z",
     "url": "https://wagey.gg/jobs/87fc25c8db0d564b-customer-program-manager-at-d-fendsolutions?ref=github",
     "visibility": "full"
@@ -140658,7 +140631,7 @@
     ],
     "seniority": "intern",
     "ats": "lever",
-    "verifiedAt": "2026-07-28T22:43:00.036Z",
+    "verifiedAt": "2026-09-06T06:25:16.096Z",
     "scrapedAt": "2026-07-22T07:26:42.148Z",
     "url": "https://wagey.gg/jobs/c7236190b6808e24-service-roofer-apprentice-london-on-at-flynncompanies?ref=github",
     "visibility": "full"
@@ -140682,7 +140655,7 @@
     ],
     "seniority": "mid",
     "ats": "lever",
-    "verifiedAt": "2026-07-28T22:42:59.619Z",
+    "verifiedAt": "2026-09-06T06:25:02.200Z",
     "scrapedAt": "2026-07-22T07:26:42.408Z",
     "url": "https://wagey.gg/jobs/b6b1028f45d3eca6-hr-recruiter-at-meds?ref=github",
     "visibility": "full"
@@ -140703,7 +140676,7 @@
     ],
     "seniority": "staff",
     "ats": "lever",
-    "verifiedAt": "2026-07-28T22:43:00.034Z",
+    "verifiedAt": "2026-09-06T06:25:13.832Z",
     "scrapedAt": "2026-07-22T07:26:44.049Z",
     "url": "https://wagey.gg/jobs/9bdbb1c21a7de02c-lead-ai-engineer-python-at-nfq?ref=github",
     "visibility": "full"
@@ -140725,7 +140698,7 @@
     ],
     "seniority": "senior",
     "ats": "lever",
-    "verifiedAt": "2026-07-28T22:43:04.720Z",
+    "verifiedAt": "2026-09-06T06:26:30.435Z",
     "scrapedAt": "2026-07-22T07:26:50.165Z",
     "url": "https://wagey.gg/jobs/adc67b6a8967075a-sr-product-manager-hardware-at-prometheanworld?ref=github",
     "visibility": "full"
@@ -140749,7 +140722,7 @@
     ],
     "seniority": null,
     "ats": "lever",
-    "verifiedAt": "2026-07-28T22:43:03.563Z",
+    "verifiedAt": "2026-09-06T06:26:20.866Z",
     "scrapedAt": "2026-07-22T07:26:50.503Z",
     "url": "https://wagey.gg/jobs/7af28fe6eff53ff9-accounts-payable-and-treasury-specialist-at-recognisebank?ref=github",
     "visibility": "full"
@@ -140769,7 +140742,7 @@
     ],
     "seniority": "senior",
     "ats": "lever",
-    "verifiedAt": "2026-07-28T22:43:06.776Z",
+    "verifiedAt": "2026-09-06T06:27:04.726Z",
     "scrapedAt": "2026-07-22T07:26:54.580Z",
     "url": "https://wagey.gg/jobs/db1c6f72b2d4c66f-solution-engineer-emea-at-revinate?ref=github",
     "visibility": "full"
@@ -140789,7 +140762,7 @@
     ],
     "seniority": null,
     "ats": "lever",
-    "verifiedAt": "2026-07-28T22:43:05.897Z",
+    "verifiedAt": "2026-09-06T06:27:01.050Z",
     "scrapedAt": "2026-07-22T07:26:54.738Z",
     "url": "https://wagey.gg/jobs/4f092450c7922fc2-client-relationship-manager-at-rfa-2?ref=github",
     "visibility": "full"
@@ -140807,20 +140780,18 @@
       "Documentation",
       "Azure",
       "Microsoft 365",
-      "Reporting",
-      "AWS",
-      "ITIL"
+      "Reporting"
     ],
     "seniority": "junior",
     "ats": "lever",
-    "verifiedAt": "2026-07-28T22:43:06.456Z",
+    "verifiedAt": "2026-09-06T06:27:23.799Z",
     "scrapedAt": "2026-07-22T07:26:55.794Z",
     "url": "https://wagey.gg/jobs/fd2415ef79fa717b-service-desk-engineer-at-rfa-2?ref=github",
     "visibility": "full"
   },
   {
     "id": "ea3396a4fcca44f6",
-    "title": "Product Designer",
+    "title": "Right Formula LTD",
     "company": "rightformula",
     "region": "EMEA",
     "salary": "",
@@ -140835,9 +140806,9 @@
     ],
     "seniority": null,
     "ats": "lever",
-    "verifiedAt": "2026-07-28T22:43:05.761Z",
+    "verifiedAt": "2026-09-06T06:27:14.527Z",
     "scrapedAt": "2026-07-22T07:26:55.972Z",
-    "url": "https://wagey.gg/jobs/ea3396a4fcca44f6-product-designer-at-rightformula?ref=github",
+    "url": "https://wagey.gg/jobs/ea3396a4fcca44f6-right-formula-ltd-at-rightformula?ref=github",
     "visibility": "full"
   },
   {
@@ -140860,7 +140831,7 @@
     ],
     "seniority": "senior",
     "ats": "lever",
-    "verifiedAt": "2026-07-28T22:43:08.877Z",
+    "verifiedAt": "2026-09-06T06:27:18.863Z",
     "scrapedAt": "2026-07-22T07:26:58.429Z",
     "url": "https://wagey.gg/jobs/9794a3550b771737-chef-fe-de-projet-senior-at-source?ref=github",
     "visibility": "full"
@@ -140882,7 +140853,7 @@
     ],
     "seniority": "director",
     "ats": "lever",
-    "verifiedAt": "2026-07-28T22:43:16.391Z",
+    "verifiedAt": "2026-09-06T06:28:15.622Z",
     "scrapedAt": "2026-07-22T07:27:07.995Z",
     "url": "https://wagey.gg/jobs/2a8a3eb710ba00be-director-of-external-media-relations-at-veonhq?ref=github",
     "visibility": "full"
@@ -140906,7 +140877,7 @@
     ],
     "seniority": "senior",
     "ats": "lever",
-    "verifiedAt": "2026-07-28T22:43:16.744Z",
+    "verifiedAt": "2026-09-06T06:28:15.901Z",
     "scrapedAt": "2026-07-22T07:27:09.290Z",
     "url": "https://wagey.gg/jobs/843dec05d14a8502-senior-manager-strategic-planning-at-veonhq?ref=github",
     "visibility": "full"
@@ -140922,14 +140893,14 @@
     "skills": [],
     "seniority": null,
     "ats": "lever",
-    "verifiedAt": "2026-07-28T22:43:17.032Z",
+    "verifiedAt": "2026-09-06T06:28:16.168Z",
     "scrapedAt": "2026-07-22T07:27:10.107Z",
     "url": "https://wagey.gg/jobs/8ced92c351f27d15-motion-graphics-designer-at-vidsy?ref=github",
     "visibility": "full"
   },
   {
     "id": "8810a75e0b1fe7cf",
-    "title": "Bank Mobile Research Nurse  - Oxford/Reading/Basingstoke – Adult Nurse",
+    "title": "WEP Clinical - Bank Mobile Research Nurse - Oxford/Reading/Basingstoke – Adult Nurse",
     "company": "wepclinical",
     "region": "EMEA",
     "salary": "",
@@ -140944,9 +140915,9 @@
     ],
     "seniority": "mid",
     "ats": "lever",
-    "verifiedAt": "2026-07-28T22:43:20.652Z",
+    "verifiedAt": "2026-09-06T06:29:05.565Z",
     "scrapedAt": "2026-07-22T07:27:13.820Z",
-    "url": "https://wagey.gg/jobs/8810a75e0b1fe7cf-bank-mobile-research-nurse-oxford-reading-basingstoke-adult-nurse-at-wepclinical?ref=github",
+    "url": "https://wagey.gg/jobs/8810a75e0b1fe7cf-wep-clinical-bank-mobile-research-nurse-oxford-reading-basingstoke-adult-nurse-a?ref=github",
     "visibility": "full"
   },
   {
@@ -140969,7 +140940,7 @@
     ],
     "seniority": "senior",
     "ats": "lever",
-    "verifiedAt": "2026-07-28T22:43:20.445Z",
+    "verifiedAt": "2026-09-06T06:28:38.755Z",
     "scrapedAt": "2026-07-22T07:27:14.421Z",
     "url": "https://wagey.gg/jobs/782edb4294d7aeb8-western-europe-regional-sales-manager-at-wingtra-2?ref=github",
     "visibility": "full"
@@ -140994,7 +140965,7 @@
     ],
     "seniority": "senior",
     "ats": "lever",
-    "verifiedAt": "2026-07-28T22:43:20.003Z",
+    "verifiedAt": "2026-09-06T06:28:38.446Z",
     "scrapedAt": "2026-07-22T07:27:14.582Z",
     "url": "https://wagey.gg/jobs/8a363bc1fd6b4258-western-europe-regional-sales-manager-at-wingtra-2?ref=github",
     "visibility": "full"
@@ -141020,7 +140991,7 @@
     ],
     "seniority": null,
     "ats": "lever",
-    "verifiedAt": "2026-07-28T22:43:24.630Z",
+    "verifiedAt": "2026-09-06T06:29:37.217Z",
     "scrapedAt": "2026-07-22T07:27:21.549Z",
     "url": "https://wagey.gg/jobs/639026b530ec9be0-sales-solutions-engineer-emea-at-sonarsource?ref=github",
     "visibility": "full"
@@ -141036,7 +141007,7 @@
     "skills": [],
     "seniority": null,
     "ats": "lever",
-    "verifiedAt": "2026-07-28T22:43:23.995Z",
+    "verifiedAt": "2026-09-06T06:29:13.018Z",
     "scrapedAt": "2026-07-22T07:27:22.778Z",
     "url": "https://wagey.gg/jobs/fbe0fb5a4746bb1d-legal-counsel-strategic-partnerships-commercial-contracting-at-intropic?ref=github",
     "visibility": "full"
@@ -141055,7 +141026,7 @@
     ],
     "seniority": "junior",
     "ats": "lever",
-    "verifiedAt": "2026-07-28T22:43:28.146Z",
+    "verifiedAt": "2026-09-06T06:29:37.344Z",
     "scrapedAt": "2026-07-22T07:27:32.251Z",
     "url": "https://wagey.gg/jobs/8e33122547ce2727-sales-development-representative-at-openpayd?ref=github",
     "visibility": "full"
@@ -141074,7 +141045,7 @@
     ],
     "seniority": "vp",
     "ats": "lever",
-    "verifiedAt": "2026-07-28T22:43:29.065Z",
+    "verifiedAt": "2026-09-06T09:03:45.538Z",
     "scrapedAt": "2026-07-22T07:27:32.426Z",
     "url": "https://wagey.gg/jobs/859317aa4a0c46b1-vp-of-sales-at-openpayd?ref=github",
     "visibility": "full"
@@ -141092,14 +141063,14 @@
     ],
     "seniority": null,
     "ats": "lever",
-    "verifiedAt": "2026-07-28T22:43:30.641Z",
+    "verifiedAt": "2026-09-06T09:03:46.275Z",
     "scrapedAt": "2026-07-22T07:27:33.806Z",
     "url": "https://wagey.gg/jobs/6228fdc82b7e1c9d-fraud-team-leader-investigations-at-zopa?ref=github",
     "visibility": "full"
   },
   {
     "id": "03e50bfb1cff24af",
-    "title": "Frontend Engineer",
+    "title": "Zopa - Frontend Engineer",
     "company": "zopa",
     "region": "EMEA",
     "salary": "",
@@ -141110,17 +141081,13 @@
       "Learning & Development",
       "React",
       "Next.js",
-      "TypeScript",
-      "GraphQL",
-      "Git",
-      "Honeycomb",
-      "Grafana"
+      "TypeScript"
     ],
     "seniority": null,
     "ats": "lever",
-    "verifiedAt": "2026-07-28T22:43:30.801Z",
+    "verifiedAt": "2026-09-06T09:04:34.836Z",
     "scrapedAt": "2026-07-22T07:27:35.048Z",
-    "url": "https://wagey.gg/jobs/03e50bfb1cff24af-frontend-engineer-at-zopa?ref=github",
+    "url": "https://wagey.gg/jobs/03e50bfb1cff24af-zopa-frontend-engineer-at-zopa?ref=github",
     "visibility": "full"
   },
   {
@@ -141137,7 +141104,7 @@
     ],
     "seniority": "senior",
     "ats": "lever",
-    "verifiedAt": "2026-07-28T22:43:30.298Z",
+    "verifiedAt": "2026-09-06T09:03:45.355Z",
     "scrapedAt": "2026-07-22T07:27:36.186Z",
     "url": "https://wagey.gg/jobs/3a0cf29b427dd65f-senior-finance-risk-controls-manager-at-zopa?ref=github",
     "visibility": "full"
@@ -141155,7 +141122,7 @@
     ],
     "seniority": "senior",
     "ats": "lever",
-    "verifiedAt": "2026-07-28T22:43:31.066Z",
+    "verifiedAt": "2026-09-06T09:03:54.006Z",
     "scrapedAt": "2026-07-22T07:27:36.652Z",
     "url": "https://wagey.gg/jobs/d8820945422c17fc-senior-fp-a-analyst-modelling-at-zopa?ref=github",
     "visibility": "full"
@@ -141181,14 +141148,14 @@
     ],
     "seniority": "senior",
     "ats": "lever",
-    "verifiedAt": "2026-07-28T22:43:31.878Z",
+    "verifiedAt": "2026-09-06T09:03:54.927Z",
     "scrapedAt": "2026-07-22T07:27:37.294Z",
     "url": "https://wagey.gg/jobs/5e18f7fddea59757-senior-frontend-engineer-at-zopa?ref=github",
     "visibility": "full"
   },
   {
     "id": "bf0369508d6cfaa4",
-    "title": "Senior Commercial Counsel – EMEA (Remote in UK) (977-SLS)",
+    "title": "Solutus Legal Search - Senior Commercial Counsel – EMEA (Remote in UK) (977-SLS)",
     "company": "solutuslegal",
     "region": "EMEA",
     "salary": "",
@@ -141201,14 +141168,14 @@
     ],
     "seniority": "senior",
     "ats": "lever",
-    "verifiedAt": "2026-07-28T22:43:33.069Z",
+    "verifiedAt": "2026-09-06T09:04:47.388Z",
     "scrapedAt": "2026-07-22T07:27:38.917Z",
-    "url": "https://wagey.gg/jobs/bf0369508d6cfaa4-senior-commercial-counsel-emea-remote-in-uk-977-sls-at-solutuslegal?ref=github",
+    "url": "https://wagey.gg/jobs/bf0369508d6cfaa4-solutus-legal-search-senior-commercial-counsel-emea-remote-in-uk-977-sls-at-solu?ref=github",
     "visibility": "full"
   },
   {
     "id": "e02b475538fed3b4",
-    "title": "Senior React Native Engineer",
+    "title": "MoonPay - Senior/Staff React Native Engineer",
     "company": "moonpay",
     "region": "EMEA",
     "salary": "$250k/year",
@@ -141220,9 +141187,9 @@
     ],
     "seniority": "senior",
     "ats": "lever",
-    "verifiedAt": "2026-07-28T22:43:32.463Z",
+    "verifiedAt": "2026-09-06T09:04:52.518Z",
     "scrapedAt": "2026-07-22T07:27:41.431Z",
-    "url": "https://wagey.gg/jobs/e02b475538fed3b4-senior-react-native-engineer-at-moonpay?ref=github",
+    "url": "https://wagey.gg/jobs/e02b475538fed3b4-moonpay-senior-staff-react-native-engineer-at-moonpay?ref=github",
     "visibility": "full"
   },
   {
@@ -141249,7 +141216,7 @@
     ],
     "seniority": null,
     "ats": "lever",
-    "verifiedAt": "2026-07-28T22:43:35.919Z",
+    "verifiedAt": "2026-09-06T09:04:46.545Z",
     "scrapedAt": "2026-07-22T07:27:42.857Z",
     "url": "https://wagey.gg/jobs/7ca712a81563b397-backend-engineer-at-octoenergy?ref=github",
     "visibility": "full"
@@ -141270,7 +141237,7 @@
     ],
     "seniority": "mid",
     "ats": "lever",
-    "verifiedAt": "2026-07-28T22:43:36.443Z",
+    "verifiedAt": "2026-09-06T09:04:50.385Z",
     "scrapedAt": "2026-07-22T07:27:42.942Z",
     "url": "https://wagey.gg/jobs/69847e96d5755c80-client-success-executive-at-octoenergy?ref=github",
     "visibility": "full"
@@ -141291,7 +141258,7 @@
     ],
     "seniority": "staff",
     "ats": "lever",
-    "verifiedAt": "2026-07-28T22:43:37.278Z",
+    "verifiedAt": "2026-09-06T09:04:51.971Z",
     "scrapedAt": "2026-07-22T07:27:50.525Z",
     "url": "https://wagey.gg/jobs/796f569209ef3d96-operations-insight-strategy-lead-12-month-ftc-at-octoenergy?ref=github",
     "visibility": "full"
@@ -141310,7 +141277,7 @@
     ],
     "seniority": "mid",
     "ats": "lever",
-    "verifiedAt": "2026-07-28T22:43:41.322Z",
+    "verifiedAt": "2026-09-06T09:05:53.411Z",
     "scrapedAt": "2026-07-22T07:27:53.925Z",
     "url": "https://wagey.gg/jobs/2294cdbafe0a9675-conversational-ai-chat-bot-developer-cognigy-at-ttecdigital?ref=github",
     "visibility": "full"
@@ -141332,7 +141299,7 @@
     ],
     "seniority": "mid",
     "ats": "lever",
-    "verifiedAt": "2026-07-28T22:43:38.141Z",
+    "verifiedAt": "2026-09-06T09:05:04.626Z",
     "scrapedAt": "2026-07-22T07:27:57.399Z",
     "url": "https://wagey.gg/jobs/6af1df4d3ccbecfc-software-engineer-backend-python-at-octoenergy?ref=github",
     "visibility": "full"
@@ -141352,7 +141319,7 @@
     ],
     "seniority": "director",
     "ats": "lever",
-    "verifiedAt": "2026-07-28T22:43:42.378Z",
+    "verifiedAt": "2026-09-06T09:05:53.103Z",
     "scrapedAt": "2026-07-22T07:28:00.097Z",
     "url": "https://wagey.gg/jobs/02305b9ae82a8e44-director-of-business-value-from-enterprise-ai-r5463-at-shieldai?ref=github",
     "visibility": "full"
@@ -141370,12 +141337,11 @@
       "AWS",
       "Kubernetes",
       "Terraform",
-      "Team Leadership",
-      "Kafka"
+      "Team Leadership"
     ],
     "seniority": "senior",
     "ats": "lever",
-    "verifiedAt": "2026-07-28T22:43:43.462Z",
+    "verifiedAt": "2026-09-06T09:06:03.338Z",
     "scrapedAt": "2026-07-22T07:28:06.844Z",
     "url": "https://wagey.gg/jobs/0c1bbffc13f0925e-senior-software-engineer-core-at-olo?ref=github",
     "visibility": "full"
@@ -141397,7 +141363,7 @@
     ],
     "seniority": "mid",
     "ats": "lever",
-    "verifiedAt": "2026-07-28T22:43:57.491Z",
+    "verifiedAt": "2026-09-06T09:06:59.085Z",
     "scrapedAt": "2026-07-22T07:28:21.377Z",
     "url": "https://wagey.gg/jobs/2f132d6927132aa6-legal-counsel-at-airalo?ref=github",
     "visibility": "full"
@@ -141421,7 +141387,7 @@
     ],
     "seniority": "senior",
     "ats": "lever",
-    "verifiedAt": "2026-07-28T22:43:52.746Z",
+    "verifiedAt": "2026-09-06T09:06:25.390Z",
     "scrapedAt": "2026-07-22T07:28:21.550Z",
     "url": "https://wagey.gg/jobs/e1d302448f5c3593-senior-program-manager-r5370-at-shieldai?ref=github",
     "visibility": "full"
@@ -141445,7 +141411,7 @@
     ],
     "seniority": "junior",
     "ats": "lever",
-    "verifiedAt": "2026-07-28T22:43:55.761Z",
+    "verifiedAt": "2026-09-06T09:06:45.783Z",
     "scrapedAt": "2026-07-22T07:28:25.253Z",
     "url": "https://wagey.gg/jobs/e53159d768aef403-provider-operations-associate-at-curai?ref=github",
     "visibility": "full"
@@ -141470,7 +141436,7 @@
     ],
     "seniority": "senior",
     "ats": "lever",
-    "verifiedAt": "2026-07-28T22:43:56.409Z",
+    "verifiedAt": "2026-09-06T09:06:46.285Z",
     "scrapedAt": "2026-07-22T07:28:29.217Z",
     "url": "https://wagey.gg/jobs/f8bdd7d309b3a667-simulation-specialist-r5373-at-shieldai?ref=github",
     "visibility": "full"
@@ -141496,7 +141462,7 @@
     ],
     "seniority": "director",
     "ats": "lever",
-    "verifiedAt": "2026-07-28T22:43:58.500Z",
+    "verifiedAt": "2026-09-06T09:06:57.880Z",
     "scrapedAt": "2026-07-22T07:28:34.085Z",
     "url": "https://wagey.gg/jobs/bbf9dacdb380a832-director-global-safety-regulatory-compliance-at-matchgroup?ref=github",
     "visibility": "full"
@@ -141512,7 +141478,7 @@
     "skills": [],
     "seniority": null,
     "ats": "lever",
-    "verifiedAt": "2026-07-28T22:43:58.462Z",
+    "verifiedAt": "2026-09-06T09:06:57.430Z",
     "scrapedAt": "2026-07-22T07:28:34.266Z",
     "url": "https://wagey.gg/jobs/2e775c2ce1938ffe-machine-translation-evaluation-english-ukrainian-project-vistula-at-appen?ref=github",
     "visibility": "full"
@@ -141534,7 +141500,7 @@
     ],
     "seniority": "mid",
     "ats": "lever",
-    "verifiedAt": "2026-07-28T22:43:59.369Z",
+    "verifiedAt": "2026-09-06T09:06:58.601Z",
     "scrapedAt": "2026-07-22T07:28:37.894Z",
     "url": "https://wagey.gg/jobs/bee2b08150763bf5-technical-recruiter-at-zencore?ref=github",
     "visibility": "full"
@@ -141552,15 +141518,11 @@
       "Prospecting",
       "Reporting",
       "Terraform",
-      "Kubernetes",
-      "Helm",
-      "Vector",
-      "Harness",
-      "Mentoring"
+      "Kubernetes"
     ],
     "seniority": null,
     "ats": "lever",
-    "verifiedAt": "2026-07-28T22:44:00.639Z",
+    "verifiedAt": "2026-09-06T09:07:18.495Z",
     "scrapedAt": "2026-07-22T07:28:38.250Z",
     "url": "https://wagey.gg/jobs/27b25a3369f46b0f-sales-engineer-emea-at-sonatype?ref=github",
     "visibility": "full"
@@ -141580,7 +141542,7 @@
     ],
     "seniority": null,
     "ats": "lever",
-    "verifiedAt": "2026-07-28T22:44:01.206Z",
+    "verifiedAt": "2026-09-06T09:07:13.379Z",
     "scrapedAt": "2026-07-22T07:28:39.874Z",
     "url": "https://wagey.gg/jobs/8c2689e73f539c12-people-operations-specialist-at-kraken123?ref=github",
     "visibility": "full"
@@ -141598,7 +141560,7 @@
     ],
     "seniority": "director",
     "ats": "lever",
-    "verifiedAt": "2026-07-28T22:44:03.204Z",
+    "verifiedAt": "2026-09-06T09:07:14.784Z",
     "scrapedAt": "2026-07-22T07:28:40.763Z",
     "url": "https://wagey.gg/jobs/1bce7dc7c23c5477-sales-director-flexibility-at-kraken123?ref=github",
     "visibility": "full"
@@ -141616,7 +141578,7 @@
     ],
     "seniority": "senior",
     "ats": "lever",
-    "verifiedAt": "2026-07-28T22:44:01.605Z",
+    "verifiedAt": "2026-09-06T09:07:14.158Z",
     "scrapedAt": "2026-07-22T07:28:41.081Z",
     "url": "https://wagey.gg/jobs/f40a496fb6e4adfd-senior-product-marketing-manager-at-kraken123?ref=github",
     "visibility": "full"
@@ -141638,7 +141600,7 @@
     ],
     "seniority": "senior",
     "ats": "lever",
-    "verifiedAt": "2026-07-28T22:44:01.267Z",
+    "verifiedAt": "2026-09-06T09:07:14.283Z",
     "scrapedAt": "2026-07-22T07:28:42.151Z",
     "url": "https://wagey.gg/jobs/a2e99ae11e7ff5cb-senior-software-engineer-customer-entities-at-kraken123?ref=github",
     "visibility": "full"
@@ -141656,7 +141618,7 @@
     ],
     "seniority": null,
     "ats": "lever",
-    "verifiedAt": "2026-07-28T22:44:02.469Z",
+    "verifiedAt": "2026-09-06T09:07:14.494Z",
     "scrapedAt": "2026-07-22T07:28:44.852Z",
     "url": "https://wagey.gg/jobs/6e95b02f244ab871-sales-development-representative-new-graduates-at-patsnap?ref=github",
     "visibility": "full"
@@ -141679,7 +141641,7 @@
     ],
     "seniority": "staff",
     "ats": "lever",
-    "verifiedAt": "2026-07-28T22:44:08.721Z",
+    "verifiedAt": "2026-09-06T09:07:22.463Z",
     "scrapedAt": "2026-07-22T07:28:48.439Z",
     "url": "https://wagey.gg/jobs/4f906d0d2456e9e5-lead-ai-engineer-at-360learning?ref=github",
     "visibility": "full"
@@ -141702,7 +141664,7 @@
     ],
     "seniority": "director",
     "ats": "lever",
-    "verifiedAt": "2026-07-28T22:44:06.211Z",
+    "verifiedAt": "2026-09-06T09:07:21.678Z",
     "scrapedAt": "2026-07-22T07:28:49.157Z",
     "url": "https://wagey.gg/jobs/a37c5cdf5aa525aa-global-communications-director-at-aleph?ref=github",
     "visibility": "full"
@@ -141724,7 +141686,7 @@
     ],
     "seniority": "senior",
     "ats": "lever",
-    "verifiedAt": "2026-07-28T22:44:06.629Z",
+    "verifiedAt": "2026-09-06T09:07:22.158Z",
     "scrapedAt": "2026-07-22T07:28:50.254Z",
     "url": "https://wagey.gg/jobs/8fda7fcbcee73833-information-security-governance-specialist-at-frontify?ref=github",
     "visibility": "full"
@@ -141750,7 +141712,7 @@
     ],
     "seniority": "mid",
     "ats": "lever",
-    "verifiedAt": "2026-07-28T22:44:09.918Z",
+    "verifiedAt": "2026-09-06T09:07:28.196Z",
     "scrapedAt": "2026-07-22T07:28:51.851Z",
     "url": "https://wagey.gg/jobs/330a3835a3d7e12b-fp-a-manager-at-kpler?ref=github",
     "visibility": "full"
@@ -141776,7 +141738,7 @@
     ],
     "seniority": "staff",
     "ats": "lever",
-    "verifiedAt": "2026-07-28T22:44:09.235Z",
+    "verifiedAt": "2026-09-06T09:07:23.144Z",
     "scrapedAt": "2026-07-22T07:28:52.869Z",
     "url": "https://wagey.gg/jobs/bf8e1681dbbc6787-tax-manager-at-aleph?ref=github",
     "visibility": "full"
@@ -141794,20 +141756,18 @@
       "Python",
       "Coaching",
       "Tableau",
-      "Data Visualization",
-      "Looker",
-      "Data Quality"
+      "Data Visualization"
     ],
     "seniority": "mid",
     "ats": "lever",
-    "verifiedAt": "2026-07-28T22:44:10.973Z",
+    "verifiedAt": "2026-09-06T09:07:44.743Z",
     "scrapedAt": "2026-07-22T07:28:57.318Z",
     "url": "https://wagey.gg/jobs/426ab36e56396903-vessel-data-manager-at-kpler?ref=github",
     "visibility": "full"
   },
   {
     "id": "c078a7b3c8c9e2b7",
-    "title": "Head of Investor Capital & Relations - Middle East (Dubai-Based)",
+    "title": "Xsolla - Head of Investor Capital & Relations - Middle East (Dubai-Based)",
     "company": "xsolla",
     "region": "EMEA",
     "salary": "$52k/year",
@@ -141818,21 +141778,13 @@
       "MENA",
       "Documentation",
       "Employee Relations",
-      "Decision Making",
-      "Government Relations",
-      "Fundraising",
-      "Due Diligence",
-      "Regulatory Compliance",
-      "Reporting",
-      "CFA",
-      "CAIA",
-      "Pipeline Management"
+      "Decision Making"
     ],
     "seniority": "director",
     "ats": "lever",
-    "verifiedAt": "2026-07-28T22:44:29.985Z",
+    "verifiedAt": "2026-09-06T09:08:47.163Z",
     "scrapedAt": "2026-07-22T07:28:59.267Z",
-    "url": "https://wagey.gg/jobs/c078a7b3c8c9e2b7-head-of-investor-capital-relations-middle-east-dubai-based-at-xsolla?ref=github",
+    "url": "https://wagey.gg/jobs/c078a7b3c8c9e2b7-xsolla-head-of-investor-capital-relations-middle-east-dubai-based-at-xsolla?ref=github",
     "visibility": "full"
   },
   {
@@ -141858,7 +141810,7 @@
     ],
     "seniority": "senior",
     "ats": "lever",
-    "verifiedAt": "2026-07-28T22:44:15.950Z",
+    "verifiedAt": "2026-09-06T09:07:59.586Z",
     "scrapedAt": "2026-07-22T07:29:04.345Z",
     "url": "https://wagey.gg/jobs/3552f0bbea70c83f-senior-account-manager-at-hypebeast?ref=github",
     "visibility": "full"
@@ -141878,14 +141830,14 @@
     ],
     "seniority": null,
     "ats": "lever",
-    "verifiedAt": "2026-07-28T22:44:21.974Z",
+    "verifiedAt": "2026-09-06T09:08:25.158Z",
     "scrapedAt": "2026-07-22T07:29:17.180Z",
     "url": "https://wagey.gg/jobs/0547ce44f1c2ff26-account-manager-at-zeneducate?ref=github",
     "visibility": "full"
   },
   {
     "id": "e9c55482b5a87cdb",
-    "title": "Education Recruitment Consultant",
+    "title": "Zen Educate - Education Recruitment Consultant",
     "company": "zeneducate",
     "region": "EMEA",
     "salary": "$47k–$74k/year",
@@ -141893,18 +141845,19 @@
     "salaryMax": 73704,
     "skills": [
       "Close",
+      "Account Management",
       "Plane"
     ],
     "seniority": null,
     "ats": "lever",
-    "verifiedAt": "2026-07-28T22:44:22.653Z",
+    "verifiedAt": "2026-09-06T09:08:29.993Z",
     "scrapedAt": "2026-07-22T07:29:18.366Z",
-    "url": "https://wagey.gg/jobs/e9c55482b5a87cdb-education-recruitment-consultant-at-zeneducate?ref=github",
+    "url": "https://wagey.gg/jobs/e9c55482b5a87cdb-zen-educate-education-recruitment-consultant-at-zeneducate?ref=github",
     "visibility": "full"
   },
   {
     "id": "4597f479188e3b9b",
-    "title": "Senior Account Manager",
+    "title": "Zen Educate - Senior Account Manager",
     "company": "zeneducate",
     "region": "EMEA",
     "salary": "$60k–$80k/year",
@@ -141917,14 +141870,14 @@
     ],
     "seniority": "senior",
     "ats": "lever",
-    "verifiedAt": "2026-07-28T22:44:22.983Z",
+    "verifiedAt": "2026-09-06T09:08:30.006Z",
     "scrapedAt": "2026-07-22T07:29:18.735Z",
-    "url": "https://wagey.gg/jobs/4597f479188e3b9b-senior-account-manager-at-zeneducate?ref=github",
+    "url": "https://wagey.gg/jobs/4597f479188e3b9b-zen-educate-senior-account-manager-at-zeneducate?ref=github",
     "visibility": "full"
   },
   {
     "id": "c0db3276a2bcca30",
-    "title": "Senior Education Recruitment Consultant",
+    "title": "Zen Educate - Senior Education Recruitment Consultant",
     "company": "zeneducate",
     "region": "EMEA",
     "salary": "$60k–$80k/year",
@@ -141932,18 +141885,19 @@
     "salaryMax": 80404,
     "skills": [
       "Close",
+      "Account Management",
       "Plane"
     ],
     "seniority": "senior",
     "ats": "lever",
-    "verifiedAt": "2026-07-28T22:44:23.413Z",
+    "verifiedAt": "2026-09-06T09:08:36.742Z",
     "scrapedAt": "2026-07-22T07:29:18.905Z",
-    "url": "https://wagey.gg/jobs/c0db3276a2bcca30-senior-education-recruitment-consultant-at-zeneducate?ref=github",
+    "url": "https://wagey.gg/jobs/c0db3276a2bcca30-zen-educate-senior-education-recruitment-consultant-at-zeneducate?ref=github",
     "visibility": "full"
   },
   {
     "id": "8bdf9d22b666eb70",
-    "title": "Casino Operations Manager",
+    "title": "Betr - Casino Operations Manager",
     "company": "betr",
     "region": "EMEA",
     "salary": "",
@@ -141957,14 +141911,14 @@
     ],
     "seniority": "senior",
     "ats": "lever",
-    "verifiedAt": "2026-07-28T22:44:27.410Z",
+    "verifiedAt": "2026-09-06T09:08:41.737Z",
     "scrapedAt": "2026-07-22T07:29:23.716Z",
-    "url": "https://wagey.gg/jobs/8bdf9d22b666eb70-casino-operations-manager-at-betr?ref=github",
+    "url": "https://wagey.gg/jobs/8bdf9d22b666eb70-betr-casino-operations-manager-at-betr?ref=github",
     "visibility": "full"
   },
   {
     "id": "121185b0bcc040ff",
-    "title": "Commissioning Project Leads",
+    "title": "Global Certification & Verification Group - Commissioning Project Leads",
     "company": "global-cxm",
     "region": "EMEA",
     "salary": "",
@@ -141977,9 +141931,9 @@
     ],
     "seniority": null,
     "ats": "lever",
-    "verifiedAt": "2026-07-28T22:44:32.523Z",
+    "verifiedAt": "2026-09-06T09:08:52.349Z",
     "scrapedAt": "2026-07-22T07:29:27.550Z",
-    "url": "https://wagey.gg/jobs/121185b0bcc040ff-commissioning-project-leads-at-global-cxm?ref=github",
+    "url": "https://wagey.gg/jobs/121185b0bcc040ff-global-certification-verification-group-commissioning-project-leads-at-global-cx?ref=github",
     "visibility": "full"
   },
   {
@@ -141996,7 +141950,7 @@
     ],
     "seniority": "director",
     "ats": "lever",
-    "verifiedAt": "2026-07-28T22:44:33.482Z",
+    "verifiedAt": "2026-09-06T09:09:02.227Z",
     "scrapedAt": "2026-07-22T07:29:28.408Z",
     "url": "https://wagey.gg/jobs/335324f233948aa3-channel-and-alliance-director-nordics-and-benelux-at-cloudinary?ref=github",
     "visibility": "full"
@@ -142019,7 +141973,7 @@
     ],
     "seniority": "mid",
     "ats": "lever",
-    "verifiedAt": "2026-07-28T22:44:32.386Z",
+    "verifiedAt": "2026-09-06T09:08:44.656Z",
     "scrapedAt": "2026-07-22T07:29:28.409Z",
     "url": "https://wagey.gg/jobs/aa711950f54b9904-middle-research-specialist-revit-at-belkins?ref=github",
     "visibility": "full"
@@ -142040,7 +141994,7 @@
     ],
     "seniority": "senior",
     "ats": "lever",
-    "verifiedAt": "2026-07-28T22:44:35.117Z",
+    "verifiedAt": "2026-09-06T09:09:13.353Z",
     "scrapedAt": "2026-07-22T07:29:37.452Z",
     "url": "https://wagey.gg/jobs/ba32382ce21e5c99-senior-project-manager-at-cority?ref=github",
     "visibility": "full"
@@ -142064,14 +142018,14 @@
     ],
     "seniority": "mid",
     "ats": "lever",
-    "verifiedAt": "2026-07-28T22:44:35.456Z",
+    "verifiedAt": "2026-09-06T09:09:13.644Z",
     "scrapedAt": "2026-07-22T07:29:38.154Z",
     "url": "https://wagey.gg/jobs/7788a4412982d646-business-development-representative-at-cority?ref=github",
     "visibility": "full"
   },
   {
     "id": "51148737d9990268",
-    "title": "Sales Operations Specialist",
+    "title": "Megaport - Sales Operations Specialist",
     "company": "megaport",
     "region": "EMEA",
     "salary": "",
@@ -142086,9 +142040,9 @@
     ],
     "seniority": "mid",
     "ats": "lever",
-    "verifiedAt": "2026-07-28T22:44:35.416Z",
+    "verifiedAt": "2026-09-06T12:54:38.640Z",
     "scrapedAt": "2026-07-22T07:29:38.156Z",
-    "url": "https://wagey.gg/jobs/51148737d9990268-sales-operations-specialist-at-megaport?ref=github",
+    "url": "https://wagey.gg/jobs/51148737d9990268-megaport-sales-operations-specialist-at-megaport?ref=github",
     "visibility": "full"
   },
   {
@@ -142110,7 +142064,7 @@
     ],
     "seniority": "mid",
     "ats": "lever",
-    "verifiedAt": "2026-07-28T22:44:35.806Z",
+    "verifiedAt": "2026-09-06T09:09:14.294Z",
     "scrapedAt": "2026-07-22T07:29:41.477Z",
     "url": "https://wagey.gg/jobs/c07b5681ef1148ca-strategic-account-manager-at-cority?ref=github",
     "visibility": "full"
@@ -142134,14 +142088,14 @@
     ],
     "seniority": "junior",
     "ats": "lever",
-    "verifiedAt": "2026-07-28T22:44:36.722Z",
+    "verifiedAt": "2026-09-06T12:54:13.659Z",
     "scrapedAt": "2026-07-22T07:29:45.643Z",
     "url": "https://wagey.gg/jobs/89396ba7beec9e80-payroll-manager-at-trustly?ref=github",
     "visibility": "full"
   },
   {
     "id": "13a6fce97b2cb925",
-    "title": "International Project Manager (Remote)",
+    "title": "RainFocus - International Project Manager",
     "company": "rainfocus",
     "region": "EMEA",
     "salary": "",
@@ -142152,24 +142106,18 @@
       "Performance Management",
       "Stakeholder Management",
       "Project Planning",
-      "Timeline Management",
-      "Scope Management",
-      "Jira",
-      "Microsoft Office",
-      "Google Workspace",
-      "Change Management",
-      "PMP"
+      "Timeline Management"
     ],
     "seniority": "mid",
     "ats": "lever",
-    "verifiedAt": "2026-07-28T22:44:37.380Z",
+    "verifiedAt": "2026-09-06T12:54:43.740Z",
     "scrapedAt": "2026-07-22T07:29:49.424Z",
-    "url": "https://wagey.gg/jobs/13a6fce97b2cb925-international-project-manager-remote-at-rainfocus?ref=github",
+    "url": "https://wagey.gg/jobs/13a6fce97b2cb925-rainfocus-international-project-manager-at-rainfocus?ref=github",
     "visibility": "full"
   },
   {
     "id": "5ddbe0cf485b29b6",
-    "title": "Enterprise Solutions Consultant (Pre-Sales)",
+    "title": "Malt - Enterprise Solutions Consultant (Pre-Sales)",
     "company": "malt",
     "region": "EMEA",
     "salary": "",
@@ -142180,18 +142128,13 @@
       "B2B",
       "Product Marketing",
       "Go",
-      "ACV",
-      "Intellectual Property",
-      "Vendor Management",
-      "Catalyst",
-      "Financial Modeling",
-      "Governance"
+      "ACV"
     ],
     "seniority": "mid",
     "ats": "lever",
-    "verifiedAt": "2026-07-28T22:44:39.259Z",
+    "verifiedAt": "2026-09-06T12:55:29.044Z",
     "scrapedAt": "2026-07-22T07:29:52.543Z",
-    "url": "https://wagey.gg/jobs/5ddbe0cf485b29b6-enterprise-solutions-consultant-pre-sales-at-malt?ref=github",
+    "url": "https://wagey.gg/jobs/5ddbe0cf485b29b6-malt-enterprise-solutions-consultant-pre-sales-at-malt?ref=github",
     "visibility": "full"
   },
   {
@@ -142214,7 +142157,7 @@
     ],
     "seniority": "mid",
     "ats": "lever",
-    "verifiedAt": "2026-07-28T22:44:39.113Z",
+    "verifiedAt": "2026-09-06T12:54:53.954Z",
     "scrapedAt": "2026-07-22T07:29:56.685Z",
     "url": "https://wagey.gg/jobs/3b6840b61f54f6d3-sales-development-representative-enterprise-at-malt?ref=github",
     "visibility": "full"
@@ -142234,7 +142177,7 @@
     ],
     "seniority": "mid",
     "ats": "lever",
-    "verifiedAt": "2026-07-28T22:44:42.353Z",
+    "verifiedAt": "2026-09-06T12:55:26.030Z",
     "scrapedAt": "2026-07-22T07:30:08.300Z",
     "url": "https://wagey.gg/jobs/4303ae4709298898-account-manager-commercial-emea-at-outreach?ref=github",
     "visibility": "full"
@@ -142252,7 +142195,7 @@
     ],
     "seniority": "junior",
     "ats": "lever",
-    "verifiedAt": "2026-07-28T22:44:41.386Z",
+    "verifiedAt": "2026-09-06T12:55:21.743Z",
     "scrapedAt": "2026-07-22T07:30:09.859Z",
     "url": "https://wagey.gg/jobs/2dd90a9466bc7465-centrifuge-junior-legal-counsel-at-centrifuge?ref=github",
     "visibility": "full"
@@ -142272,7 +142215,7 @@
     ],
     "seniority": "senior",
     "ats": "lever",
-    "verifiedAt": "2026-07-28T22:44:42.044Z",
+    "verifiedAt": "2026-09-06T12:55:44.822Z",
     "scrapedAt": "2026-07-22T07:30:10.594Z",
     "url": "https://wagey.gg/jobs/27f85ead4271316f-senior-infrastructure-devops-engineer-100-remote-germany-at-innocraft?ref=github",
     "visibility": "full"
@@ -142295,14 +142238,14 @@
     ],
     "seniority": "senior",
     "ats": "lever",
-    "verifiedAt": "2026-07-28T22:44:46.291Z",
+    "verifiedAt": "2026-09-06T12:56:00.520Z",
     "scrapedAt": "2026-07-22T07:30:16.992Z",
     "url": "https://wagey.gg/jobs/2d2f20c1a46183aa-quality-assurance-manager-london-at-ion?ref=github",
     "visibility": "full"
   },
   {
     "id": "dcd0c2447ec97736",
-    "title": "Account Executive, Public Relations",
+    "title": "Vested - Account Executive, Public Relations",
     "company": "fullyvested",
     "region": "EMEA",
     "salary": "",
@@ -142317,9 +142260,9 @@
     ],
     "seniority": null,
     "ats": "lever",
-    "verifiedAt": "2026-07-28T22:44:49.651Z",
+    "verifiedAt": "2026-09-06T12:56:32.608Z",
     "scrapedAt": "2026-07-22T07:30:21.151Z",
-    "url": "https://wagey.gg/jobs/dcd0c2447ec97736-account-executive-public-relations-at-fullyvested?ref=github",
+    "url": "https://wagey.gg/jobs/dcd0c2447ec97736-vested-account-executive-public-relations-at-fullyvested?ref=github",
     "visibility": "full"
   },
   {
@@ -142338,14 +142281,14 @@
     ],
     "seniority": "senior",
     "ats": "lever",
-    "verifiedAt": "2026-07-28T22:44:50.072Z",
+    "verifiedAt": "2026-09-06T12:56:10.615Z",
     "scrapedAt": "2026-07-22T07:30:26.241Z",
     "url": "https://wagey.gg/jobs/94a28218e2a625fb-compliance-senior-associate-deputy-mlro-at-ppro?ref=github",
     "visibility": "full"
   },
   {
     "id": "d817bd3992ccce06",
-    "title": "Payment Scheme Compliance Manager",
+    "title": "PPRO - Payment Scheme Compliance Manager",
     "company": "ppro",
     "region": "EMEA",
     "salary": "",
@@ -142359,14 +142302,14 @@
     ],
     "seniority": null,
     "ats": "lever",
-    "verifiedAt": "2026-07-28T22:44:49.153Z",
+    "verifiedAt": "2026-09-06T12:56:29.848Z",
     "scrapedAt": "2026-07-22T07:30:27.480Z",
-    "url": "https://wagey.gg/jobs/d817bd3992ccce06-payment-scheme-compliance-manager-at-ppro?ref=github",
+    "url": "https://wagey.gg/jobs/d817bd3992ccce06-ppro-payment-scheme-compliance-manager-at-ppro?ref=github",
     "visibility": "full"
   },
   {
     "id": "d4f4d4a849482761",
-    "title": "Senior Payment Partnerships Manager",
+    "title": "PPRO - Senior Payment Partnerships Manager",
     "company": "ppro",
     "region": "EMEA",
     "salary": "",
@@ -142377,9 +142320,9 @@
     ],
     "seniority": "senior",
     "ats": "lever",
-    "verifiedAt": "2026-07-28T22:44:50.150Z",
+    "verifiedAt": "2026-09-06T12:56:36.759Z",
     "scrapedAt": "2026-07-22T07:30:29.048Z",
-    "url": "https://wagey.gg/jobs/d4f4d4a849482761-senior-payment-partnerships-manager-at-ppro?ref=github",
+    "url": "https://wagey.gg/jobs/d4f4d4a849482761-ppro-senior-payment-partnerships-manager-at-ppro?ref=github",
     "visibility": "full"
   },
   {
@@ -142396,7 +142339,7 @@
     ],
     "seniority": null,
     "ats": "lever",
-    "verifiedAt": "2026-07-28T22:44:51.881Z",
+    "verifiedAt": "2026-09-06T12:56:54.254Z",
     "scrapedAt": "2026-07-22T07:30:32.876Z",
     "url": "https://wagey.gg/jobs/5407b7a01b660f11-co-remote-vetting-coordinator-at-jobandtalent?ref=github",
     "visibility": "full"
@@ -180732,7 +180675,7 @@
     ],
     "seniority": "junior",
     "ats": "lever",
-    "verifiedAt": "2026-07-28T22:36:23.950Z",
+    "verifiedAt": "2026-09-06T06:16:09.355Z",
     "scrapedAt": "2026-07-25T22:09:15.207Z",
     "url": "https://wagey.gg/jobs/b4a41cff8ea2fd81-operations-associate-at-wahed?ref=github",
     "visibility": "full"
@@ -180754,14 +180697,14 @@
     ],
     "seniority": null,
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T22:41:40.373Z",
+    "verifiedAt": "2026-09-06T06:21:20.370Z",
     "scrapedAt": "2026-07-25T22:12:28.593Z",
     "url": "https://wagey.gg/jobs/390f58ca4808c1ec-test-electrician-technician-at-the-exploration-company?ref=github",
     "visibility": "full"
   },
   {
     "id": "60afa97fb7050651",
-    "title": "Product Security Engineer",
+    "title": "Staff Product Security Engineer",
     "company": "Anduril Industries",
     "region": "EMEA",
     "salary": "",
@@ -180772,15 +180715,13 @@
       "Rust",
       "Python",
       "Linux",
-      "Risk Assessment",
-      "ACCA",
-      "Documentation"
+      "Risk Assessment"
     ],
-    "seniority": null,
+    "seniority": "staff",
     "ats": "greenhouse",
-    "verifiedAt": "2026-07-28T22:44:10.789Z",
+    "verifiedAt": "2026-09-06T09:07:42.230Z",
     "scrapedAt": "2026-07-25T22:13:36.255Z",
-    "url": "https://wagey.gg/jobs/60afa97fb7050651-product-security-engineer-at-anduril-industries?ref=github",
+    "url": "https://wagey.gg/jobs/60afa97fb7050651-staff-product-security-engineer-at-anduril-industries?ref=github",
     "visibility": "full"
   },
   {
